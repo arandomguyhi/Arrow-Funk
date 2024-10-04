@@ -1,0 +1,96 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BIDU idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				89,
+				4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BIDU NOTE LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				76,
+				-74
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BIDU NOTE DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				65
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BIDU NOTE RIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				209,
+				196
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BIDU NOTE UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				318,
+				2
+			],
+			"anim": "appears",
+			"fps": 24,
+			"name": "BIDU appears",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"gameover_properties": [
+		"bidu-dead",
+		"fnf_loss_sfx",
+		"gameOver",
+		"gameOverEnd"
+	],
+	"image": "characters/week2/ZUMBIDU",
+	"position": [
+		70,
+		335
+	],
+	"healthicon": "zumbidu",
+	"hasLongAnimations": true,
+	"flip_x": true,
+	"healthbar_colors": [
+		55,
+		40,
+		75
+	],
+	"camera_position": [
+		-160,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

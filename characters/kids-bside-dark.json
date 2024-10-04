@@ -1,0 +1,96 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				67,
+				8
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "spooky left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				8
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "spooky right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				126,
+				28
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "spooky down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				91,
+				50
+			],
+			"loop": false,
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "spooky dance left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-36,
+				68
+			],
+			"loop": false,
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "spooky dance right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				152,
+				158
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "spooky up"
+		}
+	],
+	"no_antialiasing": false,
+	"gameover_properties": [
+		"bidu-dead",
+		"fnf_loss_sfx",
+		"gameOver",
+		"gameOverEnd"
+	],
+	"image": "characters/funnystuff/nightfall/BKIDS_DARK",
+	"position": [
+		-60,
+		155
+	],
+	"healthicon": "twist/icon-bkids",
+	"hasLongAnimations": false,
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		180,
+		160
+	],
+	"camera_position": [
+		70,
+		-10
+	],
+	"sing_duration": 4.4,
+	"scale": 1
+}

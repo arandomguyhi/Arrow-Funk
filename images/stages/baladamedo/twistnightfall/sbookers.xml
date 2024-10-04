@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sbookers.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SPEAKERS0000" x="0" y="0" width="2658" height="750" pivotX="80.35" pivotY="-32.25" frameX="0" frameY="-3" frameWidth="2658" frameHeight="753"/>
+	<SubTexture name="SPEAKERS0001" x="0" y="755" width="2658" height="753"/>
+	<SubTexture name="SPEAKERS0002" x="0" y="755" width="2658" height="753"/>
+	<SubTexture name="SPEAKERS0003" x="0" y="1513" width="2658" height="750" frameX="0" frameY="-3" frameWidth="2658" frameHeight="753"/>
+	<SubTexture name="SPEAKERS0004" x="0" y="1513" width="2658" height="750" frameX="0" frameY="-3" frameWidth="2658" frameHeight="753"/>
+	<SubTexture name="SPEAKERS0005" x="0" y="1513" width="2658" height="750" frameX="0" frameY="-3" frameWidth="2658" frameHeight="753"/>
+	<SubTexture name="SPEAKERS0006" x="0" y="1513" width="2658" height="750" frameX="0" frameY="-3" frameWidth="2658" frameHeight="753"/>
+	<SubTexture name="SPEAKERS0007" x="0" y="1513" width="2658" height="750" frameX="0" frameY="-3" frameWidth="2658" frameHeight="753"/>
+	<SubTexture name="SPEAKERS0008" x="0" y="1513" width="2658" height="750" frameX="0" frameY="-3" frameWidth="2658" frameHeight="753"/>
+	<SubTexture name="SPEAKERS0009" x="0" y="1513" width="2658" height="750" frameX="0" frameY="-3" frameWidth="2658" frameHeight="753"/>
+	<SubTexture name="SPEAKERS0010" x="0" y="1513" width="2658" height="750" frameX="0" frameY="-3" frameWidth="2658" frameHeight="753"/>
+	<SubTexture name="SPEAKERS0011" x="0" y="1513" width="2658" height="750" frameX="0" frameY="-3" frameWidth="2658" frameHeight="753"/>
+	<SubTexture name="SPEAKERS0012" x="0" y="1513" width="2658" height="750" frameX="0" frameY="-3" frameWidth="2658" frameHeight="753"/>
+	<SubTexture name="SPEAKERS0013" x="0" y="1513" width="2658" height="750" frameX="0" frameY="-3" frameWidth="2658" frameHeight="753"/>
+	<SubTexture name="SPEAKERS0014" x="0" y="1513" width="2658" height="750" frameX="0" frameY="-3" frameWidth="2658" frameHeight="753"/>
+</TextureAtlas>

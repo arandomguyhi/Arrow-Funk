@@ -1,0 +1,63 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				52,
+				13
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BIDU Dies",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				34,
+				-7
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "BIDU Dead Loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				118,
+				156
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "BIDU Dead confirm",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"gameover_properties": [
+		"bidu-dead",
+		"fnf_loss_sfx",
+		"gameOver",
+		"gameOverEnd"
+	],
+	"image": "characters/funnystuff/nightfall/BBIDU_DED",
+	"position": [
+		90,
+		430
+	],
+	"healthicon": "twist/icon-bbidu",
+	"hasLongAnimations": true,
+	"flip_x": true,
+	"healthbar_colors": [
+		153,
+		81,
+		190
+	],
+	"camera_position": [
+		0,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

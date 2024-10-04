@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="KIDS_VIRUS.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="spooky dance left0000" x="0" y="0" width="506" height="670" pivotX="17.85" pivotY="38.65" frameX="-4" frameY="0" frameWidth="584" frameHeight="686"/>
+	<SubTexture name="spooky dance left0001" x="0" y="0" width="506" height="670" frameX="-4" frameY="0" frameWidth="584" frameHeight="686"/>
+	<SubTexture name="spooky dance left0002" x="511" y="0" width="511" height="638" frameX="0" frameY="-32" frameWidth="584" frameHeight="686"/>
+	<SubTexture name="spooky dance left0003" x="511" y="0" width="511" height="638" frameX="0" frameY="-32" frameWidth="584" frameHeight="686"/>
+	<SubTexture name="spooky dance left0004" x="1027" y="0" width="450" height="564" frameX="-134" frameY="-122" frameWidth="584" frameHeight="686"/>
+	<SubTexture name="spooky dance left0005" x="1027" y="0" width="450" height="564" frameX="-134" frameY="-122" frameWidth="584" frameHeight="686"/>
+	<SubTexture name="spooky dance left0006" x="3012" y="0" width="441" height="581" frameX="-141" frameY="-101" frameWidth="582" frameHeight="681"/>
+	<SubTexture name="spooky dance left0007" x="3012" y="0" width="441" height="581" frameX="-141" frameY="-101" frameWidth="582" frameHeight="681"/>
+	<SubTexture name="spooky dance right0000" x="1482" y="0" width="533" height="672" pivotX="-117.5" pivotY="33.45" frameX="-49" frameY="0" frameWidth="582" frameHeight="681"/>
+	<SubTexture name="spooky dance right0001" x="1482" y="0" width="533" height="672" frameX="-49" frameY="0" frameWidth="582" frameHeight="681"/>
+	<SubTexture name="spooky dance right0002" x="2020" y="0" width="532" height="646" frameX="-48" frameY="-24" frameWidth="582" frameHeight="681"/>
+	<SubTexture name="spooky dance right0003" x="2020" y="0" width="532" height="646" frameX="-48" frameY="-24" frameWidth="582" frameHeight="681"/>
+	<SubTexture name="spooky dance right0004" x="2557" y="0" width="450" height="564" frameX="0" frameY="-117" frameWidth="582" frameHeight="681"/>
+	<SubTexture name="spooky dance right0005" x="2557" y="0" width="450" height="564" frameX="0" frameY="-117" frameWidth="582" frameHeight="681"/>
+	<SubTexture name="spooky dance right0006" x="3012" y="0" width="441" height="581" frameX="-7" frameY="-96" frameWidth="582" frameHeight="681"/>
+	<SubTexture name="spooky dance right0007" x="3012" y="0" width="441" height="581" frameX="-7" frameY="-96" frameWidth="582" frameHeight="681"/>
+	<SubTexture name="spooky down0000" x="0" y="677" width="723" height="502" pivotX="38.5" pivotY="-14.75" frameX="0" frameY="-18" frameWidth="723" frameHeight="520"/>
+	<SubTexture name="spooky down0001" x="0" y="677" width="723" height="502" frameX="0" frameY="-18" frameWidth="723" frameHeight="520"/>
+	<SubTexture name="spooky down0002" x="728" y="677" width="664" height="518" frameX="-37" frameY="0" frameWidth="723" frameHeight="520"/>
+	<SubTexture name="spooky down0003" x="728" y="677" width="664" height="518" frameX="-37" frameY="0" frameWidth="723" frameHeight="520"/>
+	<SubTexture name="spooky down0004" x="728" y="677" width="664" height="518" frameX="-37" frameY="0" frameWidth="723" frameHeight="520"/>
+	<SubTexture name="spooky down0005" x="728" y="677" width="664" height="518" frameX="-37" frameY="0" frameWidth="723" frameHeight="520"/>
+	<SubTexture name="spooky down0006" x="728" y="677" width="664" height="518" frameX="-37" frameY="0" frameWidth="723" frameHeight="520"/>
+	<SubTexture name="spooky down0007" x="728" y="677" width="664" height="518" frameX="-37" frameY="0" frameWidth="723" frameHeight="520"/>
+	<SubTexture name="spooky down0008" x="728" y="677" width="664" height="518" frameX="-37" frameY="0" frameWidth="723" frameHeight="520"/>
+	<SubTexture name="spooky down0009" x="728" y="677" width="664" height="518" frameX="-37" frameY="0" frameWidth="723" frameHeight="520"/>
+	<SubTexture name="spooky down0010" x="728" y="677" width="664" height="518" frameX="-37" frameY="0" frameWidth="723" frameHeight="520"/>
+	<SubTexture name="spooky down0011" x="728" y="677" width="664" height="518" frameX="-37" frameY="0" frameWidth="723" frameHeight="520"/>
+	<SubTexture name="spooky hey0000" x="1397" y="677" width="740" height="777" pivotX="20.15" pivotY="245.9"/>
+	<SubTexture name="spooky hey0001" x="1397" y="677" width="740" height="777"/>
+	<SubTexture name="spooky hey0002" x="2142" y="677" width="664" height="702" frameX="-28" frameY="-44" frameWidth="740" frameHeight="777"/>
+	<SubTexture name="spooky hey0003" x="2142" y="677" width="664" height="702" frameX="-28" frameY="-44" frameWidth="740" frameHeight="777"/>
+	<SubTexture name="spooky hey0004" x="2811" y="677" width="678" height="716" frameX="-21" frameY="-37" frameWidth="740" frameHeight="777"/>
+	<SubTexture name="spooky hey0005" x="2811" y="677" width="678" height="716" frameX="-21" frameY="-37" frameWidth="740" frameHeight="777"/>
+	<SubTexture name="spooky hey0006" x="2811" y="677" width="678" height="716" frameX="-21" frameY="-37" frameWidth="740" frameHeight="777"/>
+	<SubTexture name="spooky hey0007" x="2811" y="677" width="678" height="716" frameX="-21" frameY="-37" frameWidth="740" frameHeight="777"/>
+	<SubTexture name="spooky hey0008" x="2811" y="677" width="678" height="716" frameX="-21" frameY="-37" frameWidth="740" frameHeight="777"/>
+	<SubTexture name="spooky hey0009" x="2811" y="677" width="678" height="716" frameX="-21" frameY="-37" frameWidth="740" frameHeight="777"/>
+	<SubTexture name="spooky hey0010" x="2811" y="677" width="678" height="716" frameX="-21" frameY="-37" frameWidth="740" frameHeight="777"/>
+	<SubTexture name="spooky hey0011" x="2811" y="677" width="678" height="716" frameX="-21" frameY="-37" frameWidth="740" frameHeight="777"/>
+	<SubTexture name="spooky left0000" x="0" y="1459" width="608" height="600" pivotX="18.2" pivotY="-0.7" frameX="0" frameY="-6" frameWidth="608" frameHeight="607"/>
+	<SubTexture name="spooky left0001" x="0" y="1459" width="608" height="600" frameX="0" frameY="-6" frameWidth="608" frameHeight="607"/>
+	<SubTexture name="spooky left0002" x="613" y="1459" width="578" height="607" frameX="-18" frameY="0" frameWidth="608" frameHeight="607"/>
+	<SubTexture name="spooky left0003" x="613" y="1459" width="578" height="607" frameX="-18" frameY="0" frameWidth="608" frameHeight="607"/>
+	<SubTexture name="spooky left0004" x="613" y="1459" width="578" height="607" frameX="-18" frameY="0" frameWidth="608" frameHeight="607"/>
+	<SubTexture name="spooky left0005" x="613" y="1459" width="578" height="607" frameX="-18" frameY="0" frameWidth="608" frameHeight="607"/>
+	<SubTexture name="spooky left0006" x="613" y="1459" width="578" height="607" frameX="-18" frameY="0" frameWidth="608" frameHeight="607"/>
+	<SubTexture name="spooky left0007" x="613" y="1459" width="578" height="607" frameX="-18" frameY="0" frameWidth="608" frameHeight="607"/>
+	<SubTexture name="spooky left0008" x="613" y="1459" width="578" height="607" frameX="-18" frameY="0" frameWidth="608" frameHeight="607"/>
+	<SubTexture name="spooky left0009" x="613" y="1459" width="578" height="607" frameX="-18" frameY="0" frameWidth="608" frameHeight="607"/>
+	<SubTexture name="spooky left0010" x="613" y="1459" width="578" height="607" frameX="-18" frameY="0" frameWidth="608" frameHeight="607"/>
+	<SubTexture name="spooky left0011" x="613" y="1459" width="578" height="607" frameX="-18" frameY="0" frameWidth="608" frameHeight="607"/>
+	<SubTexture name="spooky left0012" x="613" y="1459" width="578" height="607" frameX="-18" frameY="0" frameWidth="608" frameHeight="607"/>
+	<SubTexture name="spooky left0013" x="613" y="1459" width="578" height="607" frameX="-18" frameY="0" frameWidth="608" frameHeight="607"/>
+	<SubTexture name="spooky left0014" x="613" y="1459" width="578" height="607" frameX="-18" frameY="0" frameWidth="608" frameHeight="607"/>
+	<SubTexture name="spooky left0015" x="613" y="1459" width="578" height="607" frameX="-18" frameY="0" frameWidth="608" frameHeight="607"/>
+	<SubTexture name="spooky left0016" x="613" y="1459" width="578" height="607" frameX="-18" frameY="0" frameWidth="608" frameHeight="607"/>
+	<SubTexture name="spooky left0017" x="613" y="1459" width="578" height="607" frameX="-18" frameY="0" frameWidth="608" frameHeight="607"/>
+	<SubTexture name="spooky left0018" x="613" y="1459" width="578" height="607" frameX="-18" frameY="0" frameWidth="608" frameHeight="607"/>
+	<SubTexture name="spooky left0019" x="613" y="1459" width="578" height="607" frameX="-18" frameY="0" frameWidth="608" frameHeight="607"/>
+	<SubTexture name="spooky left0020" x="613" y="1459" width="578" height="607" frameX="-18" frameY="0" frameWidth="608" frameHeight="607"/>
+	<SubTexture name="spooky left0021" x="613" y="1459" width="578" height="607" frameX="-18" frameY="0" frameWidth="608" frameHeight="607"/>
+	<SubTexture name="spooky left0022" x="613" y="1459" width="578" height="607" frameX="-18" frameY="0" frameWidth="608" frameHeight="607"/>
+	<SubTexture name="spooky left0023" x="613" y="1459" width="578" height="607" frameX="-18" frameY="0" frameWidth="608" frameHeight="607"/>
+	<SubTexture name="spooky left0024" x="613" y="1459" width="578" height="607" frameX="-18" frameY="0" frameWidth="608" frameHeight="607"/>
+	<SubTexture name="spooky left0025" x="613" y="1459" width="578" height="607" frameX="-18" frameY="0" frameWidth="608" frameHeight="607"/>
+	<SubTexture name="spooky left0026" x="613" y="1459" width="578" height="607" frameX="-18" frameY="0" frameWidth="608" frameHeight="607"/>
+	<SubTexture name="spooky left0027" x="613" y="1459" width="578" height="607" frameX="-18" frameY="0" frameWidth="608" frameHeight="607"/>
+	<SubTexture name="spooky left0028" x="613" y="1459" width="578" height="607" frameX="-18" frameY="0" frameWidth="608" frameHeight="607"/>
+	<SubTexture name="spooky left0029" x="613" y="1459" width="578" height="607" frameX="-18" frameY="0" frameWidth="608" frameHeight="607"/>
+	<SubTexture name="spooky right0000" x="1196" y="1459" width="822" height="582" pivotX="-2.2" pivotY="-3.25" frameX="0" frameY="0" frameWidth="822" frameHeight="584"/>
+	<SubTexture name="spooky right0001" x="1196" y="1459" width="822" height="582" frameX="0" frameY="0" frameWidth="822" frameHeight="584"/>
+	<SubTexture name="spooky right0002" x="2023" y="1459" width="810" height="582" frameX="-3" frameY="-2" frameWidth="822" frameHeight="584"/>
+	<SubTexture name="spooky right0003" x="2023" y="1459" width="810" height="582" frameX="-3" frameY="-2" frameWidth="822" frameHeight="584"/>
+	<SubTexture name="spooky right0004" x="2023" y="1459" width="810" height="582" frameX="-3" frameY="-2" frameWidth="822" frameHeight="584"/>
+	<SubTexture name="spooky right0005" x="2023" y="1459" width="810" height="582" frameX="-3" frameY="-2" frameWidth="822" frameHeight="584"/>
+	<SubTexture name="spooky right0006" x="2023" y="1459" width="810" height="582" frameX="-3" frameY="-2" frameWidth="822" frameHeight="584"/>
+	<SubTexture name="spooky right0007" x="2023" y="1459" width="810" height="582" frameX="-3" frameY="-2" frameWidth="822" frameHeight="584"/>
+	<SubTexture name="spooky right0008" x="2023" y="1459" width="810" height="582" frameX="-3" frameY="-2" frameWidth="822" frameHeight="584"/>
+	<SubTexture name="spooky right0009" x="2023" y="1459" width="810" height="582" frameX="-3" frameY="-2" frameWidth="822" frameHeight="584"/>
+	<SubTexture name="spooky right0010" x="2023" y="1459" width="810" height="582" frameX="-3" frameY="-2" frameWidth="822" frameHeight="584"/>
+	<SubTexture name="spooky right0011" x="2023" y="1459" width="810" height="582" frameX="-3" frameY="-2" frameWidth="822" frameHeight="584"/>
+	<SubTexture name="spooky right0012" x="2023" y="1459" width="810" height="582" frameX="-3" frameY="-2" frameWidth="822" frameHeight="584"/>
+	<SubTexture name="spooky right0013" x="2023" y="1459" width="810" height="582" frameX="-3" frameY="-2" frameWidth="822" frameHeight="584"/>
+	<SubTexture name="spooky right0014" x="2023" y="1459" width="810" height="582" frameX="-3" frameY="-2" frameWidth="822" frameHeight="584"/>
+	<SubTexture name="spooky up0000" x="2838" y="1459" width="594" height="813" pivotX="6.75" pivotY="22.5" frameX="0" frameY="0" frameWidth="597" frameHeight="815"/>
+	<SubTexture name="spooky up0001" x="2838" y="1459" width="594" height="813" frameX="0" frameY="0" frameWidth="597" frameHeight="815"/>
+	<SubTexture name="spooky up0002" x="3437" y="1459" width="591" height="794" frameX="-6" frameY="-21" frameWidth="597" frameHeight="815"/>
+	<SubTexture name="spooky up0003" x="3437" y="1459" width="591" height="794" frameX="-6" frameY="-21" frameWidth="597" frameHeight="815"/>
+	<SubTexture name="spooky up0004" x="3437" y="1459" width="591" height="794" frameX="-6" frameY="-21" frameWidth="597" frameHeight="815"/>
+	<SubTexture name="spooky up0005" x="3437" y="1459" width="591" height="794" frameX="-6" frameY="-21" frameWidth="597" frameHeight="815"/>
+	<SubTexture name="spooky up0006" x="3437" y="1459" width="591" height="794" frameX="-6" frameY="-21" frameWidth="597" frameHeight="815"/>
+	<SubTexture name="spooky up0007" x="3437" y="1459" width="591" height="794" frameX="-6" frameY="-21" frameWidth="597" frameHeight="815"/>
+	<SubTexture name="spooky up0008" x="3437" y="1459" width="591" height="794" frameX="-6" frameY="-21" frameWidth="597" frameHeight="815"/>
+	<SubTexture name="spooky up0009" x="3437" y="1459" width="591" height="794" frameX="-6" frameY="-21" frameWidth="597" frameHeight="815"/>
+	<SubTexture name="spooky up0010" x="3437" y="1459" width="591" height="794" frameX="-6" frameY="-21" frameWidth="597" frameHeight="815"/>
+	<SubTexture name="spooky up0011" x="3437" y="1459" width="591" height="794" frameX="-6" frameY="-21" frameWidth="597" frameHeight="815"/>
+	<SubTexture name="spooky up0012" x="3437" y="1459" width="591" height="794" frameX="-6" frameY="-21" frameWidth="597" frameHeight="815"/>
+	<SubTexture name="spooky up0013" x="3437" y="1459" width="591" height="794" frameX="-6" frameY="-21" frameWidth="597" frameHeight="815"/>
+	<SubTexture name="spooky up0014" x="3437" y="1459" width="591" height="794" frameX="-6" frameY="-21" frameWidth="597" frameHeight="815"/>
+	<SubTexture name="spooky virus left0000" x="0" y="2277" width="1156" height="482" pivotX="389.85" pivotY="-126.2"/>
+	<SubTexture name="spooky virus left0001" x="0" y="2277" width="1156" height="482"/>
+	<SubTexture name="spooky virus left0002" x="1161" y="2277" width="1131" height="482" frameX="0" frameY="0" frameWidth="1156" frameHeight="482"/>
+	<SubTexture name="spooky virus left0003" x="2297" y="2277" width="1131" height="482" frameX="0" frameY="0" frameWidth="1156" frameHeight="482"/>
+	<SubTexture name="spooky virus left0004" x="0" y="2764" width="1132" height="482" frameX="0" frameY="0" frameWidth="1156" frameHeight="482"/>
+	<SubTexture name="spooky virus left0005" x="1161" y="2277" width="1131" height="482" frameX="0" frameY="0" frameWidth="1156" frameHeight="482"/>
+	<SubTexture name="spooky virus left0006" x="2297" y="2277" width="1131" height="482" frameX="0" frameY="0" frameWidth="1156" frameHeight="482"/>
+	<SubTexture name="spooky virus left0007" x="0" y="2764" width="1132" height="482" frameX="0" frameY="0" frameWidth="1156" frameHeight="482"/>
+	<SubTexture name="spooky virus left0008" x="1161" y="2277" width="1131" height="482" frameX="0" frameY="0" frameWidth="1156" frameHeight="482"/>
+	<SubTexture name="spooky virus left0009" x="2297" y="2277" width="1131" height="482" frameX="0" frameY="0" frameWidth="1156" frameHeight="482"/>
+	<SubTexture name="spooky virus left0010" x="0" y="2764" width="1132" height="482" frameX="0" frameY="0" frameWidth="1156" frameHeight="482"/>
+	<SubTexture name="spooky virus left0011" x="1161" y="2277" width="1131" height="482" frameX="0" frameY="0" frameWidth="1156" frameHeight="482"/>
+	<SubTexture name="spooky virus left0012" x="2297" y="2277" width="1131" height="482" frameX="0" frameY="0" frameWidth="1156" frameHeight="482"/>
+	<SubTexture name="spooky virus left0013" x="0" y="2764" width="1132" height="482" frameX="0" frameY="0" frameWidth="1156" frameHeight="482"/>
+	<SubTexture name="spooky virus left0014" x="1161" y="2277" width="1131" height="482" frameX="0" frameY="0" frameWidth="1156" frameHeight="482"/>
+	<SubTexture name="spooky virus left0015" x="2297" y="2277" width="1131" height="482" frameX="0" frameY="0" frameWidth="1156" frameHeight="482"/>
+	<SubTexture name="spooky virus left0016" x="0" y="2764" width="1132" height="482" frameX="0" frameY="0" frameWidth="1156" frameHeight="482"/>
+	<SubTexture name="spooky virus left0017" x="1161" y="2277" width="1131" height="482" frameX="0" frameY="0" frameWidth="1156" frameHeight="482"/>
+	<SubTexture name="spooky virus left0018" x="2297" y="2277" width="1131" height="482" frameX="0" frameY="0" frameWidth="1156" frameHeight="482"/>
+	<SubTexture name="spooky virus left0019" x="0" y="2764" width="1132" height="482" frameX="0" frameY="0" frameWidth="1156" frameHeight="482"/>
+	<SubTexture name="spooky virus left0020" x="1161" y="2277" width="1131" height="482" frameX="0" frameY="0" frameWidth="1156" frameHeight="482"/>
+	<SubTexture name="spooky virus left0021" x="2297" y="2277" width="1131" height="482" frameX="0" frameY="0" frameWidth="1156" frameHeight="482"/>
+	<SubTexture name="spooky virus left0022" x="0" y="2764" width="1132" height="482" frameX="0" frameY="0" frameWidth="1156" frameHeight="482"/>
+	<SubTexture name="spooky virus left0023" x="1161" y="2277" width="1131" height="482" frameX="0" frameY="0" frameWidth="1156" frameHeight="482"/>
+	<SubTexture name="spooky virus left0024" x="2297" y="2277" width="1131" height="482" frameX="0" frameY="0" frameWidth="1156" frameHeight="482"/>
+	<SubTexture name="spooky virus left0025" x="0" y="2764" width="1132" height="482" frameX="0" frameY="0" frameWidth="1156" frameHeight="482"/>
+	<SubTexture name="spooky virus left0026" x="1161" y="2277" width="1131" height="482" frameX="0" frameY="0" frameWidth="1156" frameHeight="482"/>
+	<SubTexture name="spooky virus left0027" x="2297" y="2277" width="1131" height="482" frameX="0" frameY="0" frameWidth="1156" frameHeight="482"/>
+	<SubTexture name="spooky virus left0028" x="0" y="2764" width="1132" height="482" frameX="0" frameY="0" frameWidth="1156" frameHeight="482"/>
+	<SubTexture name="spooky virus left0029" x="1161" y="2277" width="1131" height="482" frameX="0" frameY="0" frameWidth="1156" frameHeight="482"/>
+	<SubTexture name="spooky virus right0000" x="1137" y="2764" width="824" height="580" pivotX="34.85" pivotY="-4.2" frameX="-28" frameY="0" frameWidth="855" frameHeight="580"/>
+	<SubTexture name="spooky virus right0001" x="1966" y="2764" width="825" height="580" frameX="-30" frameY="0" frameWidth="855" frameHeight="580"/>
+	<SubTexture name="spooky virus right0002" x="2796" y="2764" width="836" height="580" frameX="0" frameY="0" frameWidth="855" frameHeight="580"/>
+	<SubTexture name="spooky virus right0003" x="1137" y="2764" width="824" height="580" frameX="-28" frameY="0" frameWidth="855" frameHeight="580"/>
+	<SubTexture name="spooky virus right0004" x="1966" y="2764" width="825" height="580" frameX="-30" frameY="0" frameWidth="855" frameHeight="580"/>
+	<SubTexture name="spooky virus right0005" x="2796" y="2764" width="836" height="580" frameX="0" frameY="0" frameWidth="855" frameHeight="580"/>
+	<SubTexture name="spooky virus right0006" x="1137" y="2764" width="824" height="580" frameX="-28" frameY="0" frameWidth="855" frameHeight="580"/>
+	<SubTexture name="spooky virus right0007" x="1966" y="2764" width="825" height="580" frameX="-30" frameY="0" frameWidth="855" frameHeight="580"/>
+	<SubTexture name="spooky virus right0008" x="2796" y="2764" width="836" height="580" frameX="0" frameY="0" frameWidth="855" frameHeight="580"/>
+	<SubTexture name="spooky virus right0009" x="1137" y="2764" width="824" height="580" frameX="-28" frameY="0" frameWidth="855" frameHeight="580"/>
+	<SubTexture name="spooky virus right0010" x="1966" y="2764" width="825" height="580" frameX="-30" frameY="0" frameWidth="855" frameHeight="580"/>
+	<SubTexture name="spooky virus right0011" x="2796" y="2764" width="836" height="580" frameX="0" frameY="0" frameWidth="855" frameHeight="580"/>
+	<SubTexture name="spooky virus right0012" x="1137" y="2764" width="824" height="580" frameX="-28" frameY="0" frameWidth="855" frameHeight="580"/>
+	<SubTexture name="spooky virus right0013" x="1966" y="2764" width="825" height="580" frameX="-30" frameY="0" frameWidth="855" frameHeight="580"/>
+	<SubTexture name="spooky virus right0014" x="2796" y="2764" width="836" height="580" frameX="0" frameY="0" frameWidth="855" frameHeight="580"/>
+	<SubTexture name="spooky virus up0000" x="0" y="3349" width="784" height="806" pivotX="57.9" pivotY="14.75" frameX="0" frameY="0" frameWidth="784" frameHeight="808"/>
+	<SubTexture name="spooky virus up0001" x="789" y="3349" width="784" height="808"/>
+	<SubTexture name="spooky virus up0002" x="1578" y="3349" width="784" height="806" frameX="0" frameY="-1" frameWidth="784" frameHeight="808"/>
+	<SubTexture name="spooky virus up0003" x="0" y="3349" width="784" height="806" frameX="0" frameY="0" frameWidth="784" frameHeight="808"/>
+	<SubTexture name="spooky virus up0004" x="789" y="3349" width="784" height="808"/>
+	<SubTexture name="spooky virus up0005" x="1578" y="3349" width="784" height="806" frameX="0" frameY="-1" frameWidth="784" frameHeight="808"/>
+	<SubTexture name="spooky virus up0006" x="0" y="3349" width="784" height="806" frameX="0" frameY="0" frameWidth="784" frameHeight="808"/>
+	<SubTexture name="spooky virus up0007" x="789" y="3349" width="784" height="808"/>
+	<SubTexture name="spooky virus up0008" x="1578" y="3349" width="784" height="806" frameX="0" frameY="-1" frameWidth="784" frameHeight="808"/>
+	<SubTexture name="spooky virus up0009" x="0" y="3349" width="784" height="806" frameX="0" frameY="0" frameWidth="784" frameHeight="808"/>
+	<SubTexture name="spooky virus up0010" x="789" y="3349" width="784" height="808"/>
+	<SubTexture name="spooky virus up0011" x="1578" y="3349" width="784" height="806" frameX="0" frameY="-1" frameWidth="784" frameHeight="808"/>
+	<SubTexture name="spooky virus up0012" x="0" y="3349" width="784" height="806" frameX="0" frameY="0" frameWidth="784" frameHeight="808"/>
+	<SubTexture name="spooky virus up0013" x="789" y="3349" width="784" height="808"/>
+	<SubTexture name="spooky virus up0014" x="1578" y="3349" width="784" height="806" frameX="0" frameY="-1" frameWidth="784" frameHeight="808"/>
+	<SubTexture name="spooky virus up0015" x="0" y="3349" width="784" height="806" frameX="0" frameY="0" frameWidth="784" frameHeight="808"/>
+	<SubTexture name="spooky virus up0016" x="789" y="3349" width="784" height="808"/>
+	<SubTexture name="spooky virus up0017" x="1578" y="3349" width="784" height="806" frameX="0" frameY="-1" frameWidth="784" frameHeight="808"/>
+	<SubTexture name="spooky virus up0018" x="0" y="3349" width="784" height="806" frameX="0" frameY="0" frameWidth="784" frameHeight="808"/>
+</TextureAtlas>

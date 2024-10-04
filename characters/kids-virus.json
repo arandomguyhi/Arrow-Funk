@@ -1,0 +1,129 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				89,
+				-32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "spooky left"
+		},
+		{
+			"offsets": [
+				458,
+				-162
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "spooky virus left"
+		},
+		{
+			"offsets": [
+				66,
+				-54
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "spooky right"
+		},
+		{
+			"offsets": [
+				96,
+				-56
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "spooky virus right"
+		},
+		{
+			"offsets": [
+				106,
+				-122
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "spooky down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				91,
+				50
+			],
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "spooky dance left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				44
+			],
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "spooky dance right"
+		},
+		{
+			"offsets": [
+				113,
+				172
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "spooky up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				167,
+				166
+			],
+			"loop": false,
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "spooky virus up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"gameover_properties": [
+		"bidu-dead",
+		"fnf_loss_sfx",
+		"gameOver",
+		"gameOverEnd"
+	],
+	"image": "characters/week2/KIDS_VIRUS",
+	"position": [
+		-70,
+		160
+	],
+	"healthicon": "kids",
+	"hasLongAnimations": false,
+	"flip_x": false,
+	"healthbar_colors": [
+		47,
+		80,
+		161
+	],
+	"camera_position": [
+		70,
+		-10
+	],
+	"sing_duration": 4.4,
+	"scale": 1
+}

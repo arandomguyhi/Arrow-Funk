@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="retryButton.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="retry button0000" x="5" y="5" width="391" height="118"/>
+	<SubTexture name="retry button0001" x="5" y="5" width="391" height="118"/>
+	<SubTexture name="retry button0002" x="5" y="5" width="391" height="118"/>
+	<SubTexture name="retry button0003" x="5" y="5" width="391" height="118"/>
+	<SubTexture name="retry button0004" x="397" y="5" width="391" height="118"/>
+	<SubTexture name="retry button0005" x="397" y="5" width="391" height="118"/>
+	<SubTexture name="retry button0006" x="397" y="5" width="391" height="118"/>
+	<SubTexture name="retry button0007" x="397" y="5" width="391" height="118"/>
+	<SubTexture name="retry button0008" x="789" y="5" width="391" height="118"/>
+	<SubTexture name="retry button0009" x="789" y="5" width="391" height="118"/>
+	<SubTexture name="retry button0010" x="789" y="5" width="391" height="118"/>
+	<SubTexture name="retry button0011" x="789" y="5" width="391" height="118"/>
+</TextureAtlas>

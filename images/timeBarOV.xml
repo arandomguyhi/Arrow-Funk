@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="timeBarOV.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="timebar0000" x="5" y="5" width="205" height="24"/>
+	<SubTexture name="timebar0001" x="210" y="5" width="205" height="24"/>
+	<SubTexture name="timebar0002" x="5" y="29" width="205" height="24"/>
+	<SubTexture name="timebar0003" x="210" y="29" width="205" height="24"/>
+	<SubTexture name="timebar0004" x="5" y="53" width="205" height="24"/>
+	<SubTexture name="timebar0005" x="210" y="53" width="205" height="24"/>
+	<SubTexture name="timebar0006" x="5" y="77" width="205" height="24"/>
+	<SubTexture name="timebar0007" x="210" y="77" width="205" height="24"/>
+	<SubTexture name="timebar0008" x="5" y="101" width="205" height="24"/>
+	<SubTexture name="timebar0009" x="210" y="101" width="205" height="24"/>
+	<SubTexture name="timebar0010" x="5" y="125" width="205" height="24"/>
+	<SubTexture name="timebar0011" x="210" y="125" width="205" height="24"/>
+	<SubTexture name="timebar0012" x="5" y="149" width="205" height="24"/>
+	<SubTexture name="timebar0013" x="210" y="149" width="205" height="24"/>
+	<SubTexture name="timebar0014" x="5" y="173" width="205" height="24"/>
+	<SubTexture name="timebar0015" x="210" y="173" width="205" height="24"/>
+	<SubTexture name="timebar0016" x="5" y="197" width="205" height="24"/>
+	<SubTexture name="timebar0017" x="210" y="197" width="205" height="24"/>
+	<SubTexture name="timebar0018" x="5" y="221" width="205" height="24"/>
+	<SubTexture name="timebar0019" x="210" y="221" width="205" height="24"/>
+	<SubTexture name="timebar0020" x="5" y="245" width="205" height="24"/>
+	<SubTexture name="timebar0021" x="210" y="245" width="205" height="24"/>
+	<SubTexture name="timebar0022" x="5" y="269" width="205" height="24"/>
+	<SubTexture name="timebar0023" x="210" y="269" width="205" height="24"/>
+	<SubTexture name="timebar0024" x="5" y="293" width="205" height="24"/>
+	<SubTexture name="timebar0025" x="210" y="293" width="205" height="24"/>
+	<SubTexture name="timebar0026" x="5" y="317" width="205" height="24"/>
+	<SubTexture name="timebar0027" x="210" y="317" width="205" height="24"/>
+	<SubTexture name="timebar0028" x="5" y="341" width="205" height="24"/>
+	<SubTexture name="timebar0029" x="210" y="341" width="205" height="24"/>
+</TextureAtlas>

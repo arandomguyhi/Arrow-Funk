@@ -1,0 +1,107 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				222,
+				0
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sagu NOTE LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				36,
+				-1
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sagu NOTE DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				47,
+				63
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sagu NOTE UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-4,
+				4
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sagu NOTE RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-2,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sagu IDLE DNACE",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-2,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Sagu IDLE DNACE",
+			"indices": [
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"gameover_properties": [
+		"bidu-dead",
+		"fnf_loss_sfx",
+		"gameOver",
+		"gameOverEnd"
+	],
+	"image": "characters/week1/SAGU_FIRE_DARK",
+	"position": [
+		-70,
+		0
+	],
+	"healthicon": "sagu",
+	"hasLongAnimations": true,
+	"flip_x": false,
+	"healthbar_colors": [
+		147,
+		83,
+		155
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

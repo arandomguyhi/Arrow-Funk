@@ -1,0 +1,266 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BIDU idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				115,
+				2
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BIDU NOTE LEFT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				-39
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BIDU NOTE DOWN MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				25
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BIDU NOTE UP MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				-5
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BIDU NOTE RIGHT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				41,
+				-46
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "BIDU BEATBOX DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				72
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "BIDU BEATBOX UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				-6
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "BIDU BEATBOX RIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				123,
+				-4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BIDU NOTE LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				-51
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BIDU NOTE DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				-8
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BIDU NOTE RIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				32
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BIDU NOTE UP0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-3,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "BIDU idle dance",
+			"indices": [
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"offsets": [
+				-6,
+				-35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "BIDU HEY!!"
+		},
+		{
+			"offsets": [
+				105,
+				111
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "coolswag",
+			"indices": [],
+			"name": "BIDU coolswag"
+		},
+		{
+			"offsets": [
+				88,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "killed",
+			"indices": [],
+			"name": "BIDU killed"
+		},
+		{
+			"offsets": [
+				115,
+				2
+			],
+			"indices": [
+				3,
+				4
+			],
+			"fps": 24,
+			"anim": "singLEFTmiss-loop",
+			"loop": true,
+			"name": "BIDU NOTE LEFT MISS"
+		},
+		{
+			"offsets": [
+				9,
+				-39
+			],
+			"indices": [
+				3,
+				4
+			],
+			"fps": 24,
+			"anim": "singDOWNmiss-loop",
+			"loop": true,
+			"name": "BIDU NOTE DOWN MISS"
+		},
+		{
+			"offsets": [
+				9,
+				25
+			],
+			"indices": [
+				3,
+				4
+			],
+			"fps": 24,
+			"anim": "singUPmiss-loop",
+			"loop": true,
+			"name": "BIDU NOTE UP MISS"
+		},
+		{
+			"offsets": [
+				-9,
+				-5
+			],
+			"indices": [
+				3,
+				4
+			],
+			"fps": 24,
+			"anim": "singRIGHTmiss-loop",
+			"loop": true,
+			"name": "BIDU NOTE RIGHT MISS"
+		}
+	],
+	"no_antialiasing": false,
+	"gameover_properties": [
+		"bidu-dead",
+		"fnf_loss_sfx",
+		"gameOver",
+		"gameOverEnd"
+	],
+	"image": "characters/bidu/BIDU",
+	"position": [
+		70,
+		350
+	],
+	"healthicon": "bidu",
+	"hasLongAnimations": true,
+	"flip_x": true,
+	"healthbar_colors": [
+		160,
+		255,
+		33
+	],
+	"camera_position": [
+		70,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

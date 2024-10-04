@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="healthBarOV3.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="healthBarOV30000" x="0" y="0" width="481" height="19" pivotX="2.15" pivotY="-9.1"/>
+	<SubTexture name="healthBarOV30001" x="0" y="24" width="481" height="19"/>
+	<SubTexture name="healthBarOV30002" x="0" y="48" width="481" height="19"/>
+	<SubTexture name="healthBarOV30003" x="0" y="72" width="481" height="19"/>
+	<SubTexture name="healthBarOV30004" x="0" y="96" width="481" height="19"/>
+	<SubTexture name="healthBarOV30005" x="0" y="120" width="481" height="19"/>
+	<SubTexture name="healthBarOV30006" x="0" y="144" width="481" height="19"/>
+	<SubTexture name="healthBarOV30007" x="0" y="168" width="481" height="19"/>
+	<SubTexture name="healthBarOV30008" x="0" y="192" width="481" height="19"/>
+	<SubTexture name="healthBarOV30009" x="0" y="216" width="481" height="19"/>
+	<SubTexture name="healthBarOV30010" x="0" y="240" width="481" height="19"/>
+	<SubTexture name="healthBarOV30011" x="0" y="264" width="481" height="19"/>
+	<SubTexture name="healthBarOV30012" x="0" y="288" width="481" height="19"/>
+	<SubTexture name="healthBarOV30013" x="0" y="312" width="481" height="19"/>
+	<SubTexture name="healthBarOV30014" x="0" y="336" width="481" height="19"/>
+	<SubTexture name="healthBarOV30015" x="0" y="360" width="481" height="19"/>
+	<SubTexture name="healthBarOV30016" x="0" y="384" width="481" height="19"/>
+	<SubTexture name="healthBarOV30017" x="0" y="408" width="481" height="19"/>
+	<SubTexture name="healthBarOV30018" x="0" y="432" width="481" height="19"/>
+	<SubTexture name="healthBarOV30019" x="0" y="456" width="481" height="19"/>
+	<SubTexture name="healthBarOV30020" x="0" y="480" width="481" height="19"/>
+	<SubTexture name="healthBarOV30021" x="0" y="504" width="481" height="19"/>
+	<SubTexture name="healthBarOV30022" x="0" y="528" width="481" height="19"/>
+	<SubTexture name="healthBarOV30023" x="0" y="552" width="481" height="19"/>
+	<SubTexture name="healthBarOV30024" x="0" y="576" width="481" height="19"/>
+	<SubTexture name="healthBarOV30025" x="0" y="600" width="481" height="19"/>
+	<SubTexture name="healthBarOV30026" x="0" y="624" width="481" height="19"/>
+	<SubTexture name="healthBarOV30027" x="0" y="648" width="481" height="19"/>
+	<SubTexture name="healthBarOV30028" x="0" y="672" width="481" height="19"/>
+	<SubTexture name="healthBarOV30029" x="0" y="696" width="481" height="19"/>
+</TextureAtlas>

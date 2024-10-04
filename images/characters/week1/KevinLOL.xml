@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="KevinLOL.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="KEVIN Dancing Beat0000" x="0" y="0" width="860" height="594" pivotX="350.1" pivotY="274.65" frameX="-3" frameY="-37" frameWidth="863" frameHeight="631"/>
+	<SubTexture name="KEVIN Dancing Beat0001" x="0" y="0" width="860" height="594" frameX="-3" frameY="-37" frameWidth="863" frameHeight="631"/>
+	<SubTexture name="KEVIN Dancing Beat0002" x="865" y="0" width="858" height="598" frameX="-1" frameY="-33" frameWidth="863" frameHeight="631"/>
+	<SubTexture name="KEVIN Dancing Beat0003" x="865" y="0" width="858" height="598" frameX="-1" frameY="-33" frameWidth="863" frameHeight="631"/>
+	<SubTexture name="KEVIN Dancing Beat0004" x="1728" y="0" width="859" height="607" frameX="0" frameY="-24" frameWidth="863" frameHeight="631"/>
+	<SubTexture name="KEVIN Dancing Beat0005" x="1728" y="0" width="859" height="607" frameX="0" frameY="-24" frameWidth="863" frameHeight="631"/>
+	<SubTexture name="KEVIN Dancing Beat0006" x="2592" y="0" width="855" height="610" frameX="-4" frameY="-21" frameWidth="863" frameHeight="631"/>
+	<SubTexture name="KEVIN Dancing Beat0007" x="2592" y="0" width="855" height="610" frameX="-4" frameY="-21" frameWidth="863" frameHeight="631"/>
+	<SubTexture name="KEVIN Dancing Beat0008" x="0" y="615" width="853" height="611" frameX="-6" frameY="-20" frameWidth="863" frameHeight="631"/>
+	<SubTexture name="KEVIN Dancing Beat0009" x="0" y="615" width="853" height="611" frameX="-6" frameY="-20" frameWidth="863" frameHeight="631"/>
+	<SubTexture name="KEVIN Dancing Beat0010" x="858" y="615" width="853" height="611" frameX="-6" frameY="-20" frameWidth="863" frameHeight="631"/>
+	<SubTexture name="KEVIN Dancing Beat0011" x="858" y="615" width="853" height="611" frameX="-6" frameY="-20" frameWidth="863" frameHeight="631"/>
+	<SubTexture name="KEVIN Dancing Beat0012" x="858" y="615" width="853" height="611" frameX="-6" frameY="-20" frameWidth="863" frameHeight="631"/>
+	<SubTexture name="KEVIN Dancing Beat0013" x="858" y="615" width="853" height="611" frameX="-6" frameY="-20" frameWidth="863" frameHeight="631"/>
+	<SubTexture name="KEVIN Dancing Beat0014" x="858" y="615" width="853" height="611" frameX="-6" frameY="-20" frameWidth="863" frameHeight="631"/>
+	<SubTexture name="KEVIN Dancing Beat0015" x="1716" y="615" width="860" height="611" frameX="-3" frameY="-20" frameWidth="863" frameHeight="631"/>
+	<SubTexture name="KEVIN Dancing Beat0016" x="1716" y="615" width="860" height="611" frameX="-3" frameY="-20" frameWidth="863" frameHeight="631"/>
+	<SubTexture name="KEVIN Dancing Beat0017" x="2581" y="615" width="858" height="613" frameX="-1" frameY="-18" frameWidth="863" frameHeight="631"/>
+	<SubTexture name="KEVIN Dancing Beat0018" x="2581" y="615" width="858" height="613" frameX="-1" frameY="-18" frameWidth="863" frameHeight="631"/>
+	<SubTexture name="KEVIN Dancing Beat0019" x="0" y="1233" width="859" height="631" frameX="0" frameY="0" frameWidth="863" frameHeight="631"/>
+	<SubTexture name="KEVIN Dancing Beat0020" x="0" y="1233" width="859" height="631" frameX="0" frameY="0" frameWidth="863" frameHeight="631"/>
+	<SubTexture name="KEVIN Dancing Beat0021" x="864" y="1233" width="855" height="631" frameX="-4" frameY="0" frameWidth="863" frameHeight="631"/>
+	<SubTexture name="KEVIN Dancing Beat0022" x="864" y="1233" width="855" height="631" frameX="-4" frameY="0" frameWidth="863" frameHeight="631"/>
+	<SubTexture name="KEVIN Dancing Beat0023" x="1724" y="1233" width="853" height="630" frameX="-6" frameY="-1" frameWidth="863" frameHeight="631"/>
+	<SubTexture name="KEVIN Dancing Beat0024" x="1724" y="1233" width="853" height="630" frameX="-6" frameY="-1" frameWidth="863" frameHeight="631"/>
+	<SubTexture name="KEVIN Dancing Beat0025" x="2582" y="1233" width="853" height="630" frameX="-6" frameY="-1" frameWidth="863" frameHeight="631"/>
+	<SubTexture name="KEVIN Dancing Beat0026" x="2582" y="1233" width="853" height="630" frameX="-6" frameY="-1" frameWidth="863" frameHeight="631"/>
+	<SubTexture name="KEVIN Dancing Beat0027" x="2582" y="1233" width="853" height="630" frameX="-6" frameY="-1" frameWidth="863" frameHeight="631"/>
+	<SubTexture name="KEVIN Dancing Beat0028" x="2582" y="1233" width="853" height="630" frameX="-6" frameY="-1" frameWidth="863" frameHeight="631"/>
+	<SubTexture name="KEVIN Dancing Beat0029" x="2582" y="1233" width="853" height="630" frameX="-6" frameY="-1" frameWidth="863" frameHeight="631"/>
+	<SubTexture name="KEVIN Down Note0000" x="0" y="1869" width="882" height="585" pivotX="373.15" pivotY="239.75" frameX="0" frameY="-11" frameWidth="882" frameHeight="596"/>
+	<SubTexture name="KEVIN Down Note0001" x="0" y="1869" width="882" height="585" frameX="0" frameY="-11" frameWidth="882" frameHeight="596"/>
+	<SubTexture name="KEVIN Down Note0002" x="887" y="1869" width="876" height="594" frameX="-6" frameY="-2" frameWidth="882" frameHeight="596"/>
+	<SubTexture name="KEVIN Down Note0003" x="887" y="1869" width="876" height="594" frameX="-6" frameY="-2" frameWidth="882" frameHeight="596"/>
+	<SubTexture name="KEVIN Down Note0004" x="887" y="1869" width="876" height="594" frameX="-6" frameY="-2" frameWidth="882" frameHeight="596"/>
+	<SubTexture name="KEVIN Down Note0005" x="887" y="1869" width="876" height="594" frameX="-6" frameY="-2" frameWidth="882" frameHeight="596"/>
+	<SubTexture name="KEVIN Down Note0006" x="887" y="1869" width="876" height="594" frameX="-6" frameY="-2" frameWidth="882" frameHeight="596"/>
+	<SubTexture name="KEVIN Down Note0007" x="887" y="1869" width="876" height="594" frameX="-6" frameY="-2" frameWidth="882" frameHeight="596"/>
+	<SubTexture name="KEVIN Down Note0008" x="887" y="1869" width="876" height="594" frameX="-6" frameY="-2" frameWidth="882" frameHeight="596"/>
+	<SubTexture name="KEVIN Down Note0009" x="887" y="1869" width="876" height="594" frameX="-6" frameY="-2" frameWidth="882" frameHeight="596"/>
+	<SubTexture name="KEVIN Down Note0010" x="887" y="1869" width="876" height="594" frameX="-6" frameY="-2" frameWidth="882" frameHeight="596"/>
+	<SubTexture name="KEVIN Down Note0011" x="887" y="1869" width="876" height="594" frameX="-6" frameY="-2" frameWidth="882" frameHeight="596"/>
+	<SubTexture name="KEVIN Down Note0012" x="887" y="1869" width="876" height="594" frameX="-6" frameY="-2" frameWidth="882" frameHeight="596"/>
+	<SubTexture name="KEVIN Down Note0013" x="887" y="1869" width="876" height="594" frameX="-6" frameY="-2" frameWidth="882" frameHeight="596"/>
+	<SubTexture name="KEVIN Down Note0014" x="887" y="1869" width="876" height="594" frameX="-6" frameY="-2" frameWidth="882" frameHeight="596"/>
+	<SubTexture name="KEVIN Down Note0015" x="887" y="1869" width="876" height="594" frameX="-6" frameY="-2" frameWidth="882" frameHeight="596"/>
+	<SubTexture name="KEVIN Down Note0016" x="887" y="1869" width="876" height="594" frameX="-6" frameY="-2" frameWidth="882" frameHeight="596"/>
+	<SubTexture name="KEVIN Down Note0017" x="887" y="1869" width="876" height="594" frameX="-6" frameY="-2" frameWidth="882" frameHeight="596"/>
+	<SubTexture name="KEVIN Down Note0018" x="887" y="1869" width="876" height="594" frameX="-6" frameY="-2" frameWidth="882" frameHeight="596"/>
+	<SubTexture name="KEVIN Down Note0019" x="887" y="1869" width="876" height="594" frameX="-6" frameY="-2" frameWidth="882" frameHeight="596"/>
+	<SubTexture name="KEVIN Down Note0020" x="887" y="1869" width="876" height="594" frameX="-6" frameY="-2" frameWidth="882" frameHeight="596"/>
+	<SubTexture name="KEVIN Down Note0021" x="887" y="1869" width="876" height="594" frameX="-6" frameY="-2" frameWidth="882" frameHeight="596"/>
+	<SubTexture name="KEVIN Down Note0022" x="1768" y="1869" width="876" height="596" frameX="-6" frameY="0" frameWidth="882" frameHeight="596"/>
+	<SubTexture name="KEVIN Down Note0023" x="1768" y="1869" width="876" height="596" frameX="-6" frameY="0" frameWidth="882" frameHeight="596"/>
+	<SubTexture name="KEVIN Line0000" x="2649" y="1869" width="853" height="611" pivotX="344.25" pivotY="281.8" frameX="0" frameY="-27" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0001" x="2649" y="1869" width="853" height="611" frameX="0" frameY="-27" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0002" x="0" y="2485" width="817" height="638" frameX="-36" frameY="0" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0003" x="0" y="2485" width="817" height="638" frameX="-36" frameY="0" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0004" x="822" y="2485" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0005" x="822" y="2485" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0006" x="1650" y="2485" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0007" x="1650" y="2485" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0008" x="2478" y="2485" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0009" x="2478" y="2485" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0010" x="0" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0011" x="0" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0012" x="828" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0013" x="828" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0014" x="1656" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0015" x="1656" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0016" x="0" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0017" x="0" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0018" x="0" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0019" x="2484" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0020" x="2484" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0021" x="2484" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0022" x="2484" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0023" x="2484" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0024" x="2484" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0025" x="2484" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0026" x="2484" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0027" x="2484" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0028" x="2484" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0029" x="2484" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0030" x="2484" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0031" x="2484" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0032" x="2484" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0033" x="2484" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0034" x="2484" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0035" x="2484" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0036" x="2484" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0037" x="2484" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0038" x="2484" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0039" x="2484" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0040" x="2484" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0041" x="2484" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0042" x="2484" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0043" x="2484" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0044" x="2484" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0045" x="2484" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0046" x="2484" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0047" x="2484" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0048" x="2484" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0049" x="2484" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0050" x="2484" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0051" x="2484" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0052" x="2484" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0053" x="2484" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0054" x="2484" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0055" x="2484" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0056" x="2484" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0057" x="2484" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Line0058" x="2484" y="3128" width="823" height="630" frameX="-30" frameY="-8" frameWidth="853" frameHeight="638"/>
+	<SubTexture name="KEVIN Nice0000" x="0" y="3763" width="824" height="632" pivotX="328.65" pivotY="275.3" frameX="-13" frameY="0" frameWidth="837" frameHeight="632"/>
+	<SubTexture name="KEVIN Nice0001" x="0" y="3763" width="824" height="632" frameX="-13" frameY="0" frameWidth="837" frameHeight="632"/>
+	<SubTexture name="KEVIN Nice0002" x="829" y="3763" width="837" height="619" frameX="0" frameY="-13" frameWidth="837" frameHeight="632"/>
+	<SubTexture name="KEVIN Nice0003" x="829" y="3763" width="837" height="619" frameX="0" frameY="-13" frameWidth="837" frameHeight="632"/>
+	<SubTexture name="KEVIN Nice0004" x="829" y="3763" width="837" height="619" frameX="0" frameY="-13" frameWidth="837" frameHeight="632"/>
+	<SubTexture name="KEVIN Nice0005" x="829" y="3763" width="837" height="619" frameX="0" frameY="-13" frameWidth="837" frameHeight="632"/>
+	<SubTexture name="KEVIN Nice0006" x="829" y="3763" width="837" height="619" frameX="0" frameY="-13" frameWidth="837" frameHeight="632"/>
+	<SubTexture name="KEVIN Nice0007" x="829" y="3763" width="837" height="619" frameX="0" frameY="-13" frameWidth="837" frameHeight="632"/>
+	<SubTexture name="KEVIN Nice0008" x="829" y="3763" width="837" height="619" frameX="0" frameY="-13" frameWidth="837" frameHeight="632"/>
+	<SubTexture name="KEVIN Nice0009" x="829" y="3763" width="837" height="619" frameX="0" frameY="-13" frameWidth="837" frameHeight="632"/>
+	<SubTexture name="KEVIN Nice0010" x="829" y="3763" width="837" height="619" frameX="0" frameY="-13" frameWidth="837" frameHeight="632"/>
+	<SubTexture name="KEVIN Nice0011" x="829" y="3763" width="837" height="619" frameX="0" frameY="-13" frameWidth="837" frameHeight="632"/>
+	<SubTexture name="KEVIN Nice0012" x="829" y="3763" width="837" height="619" frameX="0" frameY="-13" frameWidth="837" frameHeight="632"/>
+	<SubTexture name="KEVIN Nice0013" x="829" y="3763" width="837" height="619" frameX="0" frameY="-13" frameWidth="837" frameHeight="632"/>
+	<SubTexture name="KEVIN Nice0014" x="829" y="3763" width="837" height="619" frameX="0" frameY="-13" frameWidth="837" frameHeight="632"/>
+	<SubTexture name="KEVIN Nice0015" x="829" y="3763" width="837" height="619" frameX="0" frameY="-13" frameWidth="837" frameHeight="632"/>
+	<SubTexture name="KEVIN Nice0016" x="829" y="3763" width="837" height="619" frameX="0" frameY="-13" frameWidth="837" frameHeight="632"/>
+	<SubTexture name="KEVIN Nice0017" x="829" y="3763" width="837" height="619" frameX="0" frameY="-13" frameWidth="837" frameHeight="632"/>
+	<SubTexture name="KEVIN Nice0018" x="829" y="3763" width="837" height="619" frameX="0" frameY="-13" frameWidth="837" frameHeight="632"/>
+	<SubTexture name="KEVIN Nice0019" x="829" y="3763" width="837" height="619" frameX="0" frameY="-13" frameWidth="837" frameHeight="632"/>
+	<SubTexture name="KEVIN Nice0020" x="829" y="3763" width="837" height="619" frameX="0" frameY="-13" frameWidth="837" frameHeight="632"/>
+	<SubTexture name="KEVIN Nice0021" x="829" y="3763" width="837" height="619" frameX="0" frameY="-13" frameWidth="837" frameHeight="632"/>
+	<SubTexture name="KEVIN Nice0022" x="829" y="3763" width="837" height="619" frameX="0" frameY="-13" frameWidth="837" frameHeight="632"/>
+	<SubTexture name="KEVIN Nice0023" x="829" y="3763" width="837" height="619" frameX="0" frameY="-13" frameWidth="837" frameHeight="632"/>
+	<SubTexture name="KEVIN Nice0024" x="829" y="3763" width="837" height="619" frameX="0" frameY="-13" frameWidth="837" frameHeight="632"/>
+	<SubTexture name="KEVIN Nice0025" x="829" y="3763" width="837" height="619" frameX="0" frameY="-13" frameWidth="837" frameHeight="632"/>
+	<SubTexture name="KEVIN Nice0026" x="829" y="3763" width="837" height="619" frameX="0" frameY="-13" frameWidth="837" frameHeight="632"/>
+	<SubTexture name="KEVIN Nice0027" x="829" y="3763" width="837" height="619" frameX="0" frameY="-13" frameWidth="837" frameHeight="632"/>
+	<SubTexture name="KEVIN Nice0028" x="829" y="3763" width="837" height="619" frameX="0" frameY="-13" frameWidth="837" frameHeight="632"/>
+	<SubTexture name="KEVIN Nice0029" x="829" y="3763" width="837" height="619" frameX="0" frameY="-13" frameWidth="837" frameHeight="632"/>
+	<SubTexture name="KEVIN Right Note0000" x="1671" y="3763" width="799" height="619" pivotX="301.7" pivotY="262.4" frameX="-11" frameY="0" frameWidth="810" frameHeight="619"/>
+	<SubTexture name="KEVIN Right Note0001" x="1671" y="3763" width="799" height="619" frameX="-11" frameY="0" frameWidth="810" frameHeight="619"/>
+	<SubTexture name="KEVIN Right Note0002" x="2475" y="3763" width="804" height="615" frameX="-6" frameY="-4" frameWidth="810" frameHeight="619"/>
+	<SubTexture name="KEVIN Right Note0003" x="2475" y="3763" width="804" height="615" frameX="-6" frameY="-4" frameWidth="810" frameHeight="619"/>
+	<SubTexture name="KEVIN Right Note0004" x="2475" y="3763" width="804" height="615" frameX="-6" frameY="-4" frameWidth="810" frameHeight="619"/>
+	<SubTexture name="KEVIN Right Note0005" x="2475" y="3763" width="804" height="615" frameX="-6" frameY="-4" frameWidth="810" frameHeight="619"/>
+	<SubTexture name="KEVIN Right Note0006" x="2475" y="3763" width="804" height="615" frameX="-6" frameY="-4" frameWidth="810" frameHeight="619"/>
+	<SubTexture name="KEVIN Right Note0007" x="2475" y="3763" width="804" height="615" frameX="-6" frameY="-4" frameWidth="810" frameHeight="619"/>
+	<SubTexture name="KEVIN Right Note0008" x="2475" y="3763" width="804" height="615" frameX="-6" frameY="-4" frameWidth="810" frameHeight="619"/>
+	<SubTexture name="KEVIN Right Note0009" x="2475" y="3763" width="804" height="615" frameX="-6" frameY="-4" frameWidth="810" frameHeight="619"/>
+	<SubTexture name="KEVIN Right Note0010" x="2475" y="3763" width="804" height="615" frameX="-6" frameY="-4" frameWidth="810" frameHeight="619"/>
+	<SubTexture name="KEVIN Right Note0011" x="2475" y="3763" width="804" height="615" frameX="-6" frameY="-4" frameWidth="810" frameHeight="619"/>
+	<SubTexture name="KEVIN Right Note0012" x="2475" y="3763" width="804" height="615" frameX="-6" frameY="-4" frameWidth="810" frameHeight="619"/>
+	<SubTexture name="KEVIN Right Note0013" x="2475" y="3763" width="804" height="615" frameX="-6" frameY="-4" frameWidth="810" frameHeight="619"/>
+	<SubTexture name="KEVIN Right Note0014" x="2475" y="3763" width="804" height="615" frameX="-6" frameY="-4" frameWidth="810" frameHeight="619"/>
+	<SubTexture name="KEVIN Right Note0015" x="2475" y="3763" width="804" height="615" frameX="-6" frameY="-4" frameWidth="810" frameHeight="619"/>
+	<SubTexture name="KEVIN Right Note0016" x="2475" y="3763" width="804" height="615" frameX="-6" frameY="-4" frameWidth="810" frameHeight="619"/>
+	<SubTexture name="KEVIN Right Note0017" x="2475" y="3763" width="804" height="615" frameX="-6" frameY="-4" frameWidth="810" frameHeight="619"/>
+	<SubTexture name="KEVIN Right Note0018" x="2475" y="3763" width="804" height="615" frameX="-6" frameY="-4" frameWidth="810" frameHeight="619"/>
+	<SubTexture name="KEVIN Right Note0019" x="2475" y="3763" width="804" height="615" frameX="-6" frameY="-4" frameWidth="810" frameHeight="619"/>
+	<SubTexture name="KEVIN Right Note0020" x="2475" y="3763" width="804" height="615" frameX="-6" frameY="-4" frameWidth="810" frameHeight="619"/>
+	<SubTexture name="KEVIN Right Note0021" x="2475" y="3763" width="804" height="615" frameX="-6" frameY="-4" frameWidth="810" frameHeight="619"/>
+	<SubTexture name="KEVIN Right Note0022" x="3284" y="3763" width="810" height="613" frameX="0" frameY="-6" frameWidth="810" frameHeight="619"/>
+	<SubTexture name="KEVIN Right Note0023" x="3284" y="3763" width="810" height="613" frameX="0" frameY="-6" frameWidth="810" frameHeight="619"/>
+	<SubTexture name="KEVIN Up Note0000" x="0" y="4400" width="848" height="751" pivotX="344.3" pivotY="392" frameX="-5" frameY="0" frameWidth="853" frameHeight="751"/>
+	<SubTexture name="KEVIN Up Note0001" x="0" y="4400" width="848" height="751" frameX="-5" frameY="0" frameWidth="853" frameHeight="751"/>
+	<SubTexture name="KEVIN Up Note0002" x="853" y="4400" width="853" height="735" frameX="0" frameY="-16" frameWidth="853" frameHeight="751"/>
+	<SubTexture name="KEVIN Up Note0003" x="853" y="4400" width="853" height="735" frameX="0" frameY="-16" frameWidth="853" frameHeight="751"/>
+	<SubTexture name="KEVIN Up Note0004" x="853" y="4400" width="853" height="735" frameX="0" frameY="-16" frameWidth="853" frameHeight="751"/>
+	<SubTexture name="KEVIN Up Note0005" x="853" y="4400" width="853" height="735" frameX="0" frameY="-16" frameWidth="853" frameHeight="751"/>
+	<SubTexture name="KEVIN Up Note0006" x="853" y="4400" width="853" height="735" frameX="0" frameY="-16" frameWidth="853" frameHeight="751"/>
+	<SubTexture name="KEVIN Up Note0007" x="853" y="4400" width="853" height="735" frameX="0" frameY="-16" frameWidth="853" frameHeight="751"/>
+	<SubTexture name="KEVIN Up Note0008" x="853" y="4400" width="853" height="735" frameX="0" frameY="-16" frameWidth="853" frameHeight="751"/>
+	<SubTexture name="KEVIN Up Note0009" x="853" y="4400" width="853" height="735" frameX="0" frameY="-16" frameWidth="853" frameHeight="751"/>
+	<SubTexture name="KEVIN Up Note0010" x="853" y="4400" width="853" height="735" frameX="0" frameY="-16" frameWidth="853" frameHeight="751"/>
+	<SubTexture name="KEVIN Up Note0011" x="853" y="4400" width="853" height="735" frameX="0" frameY="-16" frameWidth="853" frameHeight="751"/>
+	<SubTexture name="KEVIN Up Note0012" x="853" y="4400" width="853" height="735" frameX="0" frameY="-16" frameWidth="853" frameHeight="751"/>
+	<SubTexture name="KEVIN Up Note0013" x="853" y="4400" width="853" height="735" frameX="0" frameY="-16" frameWidth="853" frameHeight="751"/>
+	<SubTexture name="KEVIN Up Note0014" x="853" y="4400" width="853" height="735" frameX="0" frameY="-16" frameWidth="853" frameHeight="751"/>
+	<SubTexture name="KEVIN Up Note0015" x="853" y="4400" width="853" height="735" frameX="0" frameY="-16" frameWidth="853" frameHeight="751"/>
+	<SubTexture name="KEVIN Up Note0016" x="853" y="4400" width="853" height="735" frameX="0" frameY="-16" frameWidth="853" frameHeight="751"/>
+	<SubTexture name="KEVIN Up Note0017" x="853" y="4400" width="853" height="735" frameX="0" frameY="-16" frameWidth="853" frameHeight="751"/>
+	<SubTexture name="KEVIN Up Note0018" x="853" y="4400" width="853" height="735" frameX="0" frameY="-16" frameWidth="853" frameHeight="751"/>
+	<SubTexture name="KEVIN Up Note0019" x="853" y="4400" width="853" height="735" frameX="0" frameY="-16" frameWidth="853" frameHeight="751"/>
+	<SubTexture name="KEVIN Up Note0020" x="853" y="4400" width="853" height="735" frameX="0" frameY="-16" frameWidth="853" frameHeight="751"/>
+	<SubTexture name="KEVIN Up Note0021" x="853" y="4400" width="853" height="735" frameX="0" frameY="-16" frameWidth="853" frameHeight="751"/>
+	<SubTexture name="KEVIN Up Note0022" x="1711" y="4400" width="850" height="720" frameX="-3" frameY="-31" frameWidth="853" frameHeight="751"/>
+	<SubTexture name="KEVIN Up Note0023" x="1711" y="4400" width="850" height="720" frameX="-3" frameY="-31" frameWidth="853" frameHeight="751"/>
+	<SubTexture name="KEVIN left note0000" x="2566" y="4400" width="1011" height="633" pivotX="502.55" pivotY="276.25"/>
+	<SubTexture name="KEVIN left note0001" x="2566" y="4400" width="1011" height="633"/>
+	<SubTexture name="KEVIN left note0002" x="0" y="5156" width="1002" height="627" frameX="-9" frameY="-6" frameWidth="1011" frameHeight="633"/>
+	<SubTexture name="KEVIN left note0003" x="0" y="5156" width="1002" height="627" frameX="-9" frameY="-6" frameWidth="1011" frameHeight="633"/>
+	<SubTexture name="KEVIN left note0004" x="0" y="5156" width="1002" height="627" frameX="-9" frameY="-6" frameWidth="1011" frameHeight="633"/>
+	<SubTexture name="KEVIN left note0005" x="0" y="5156" width="1002" height="627" frameX="-9" frameY="-6" frameWidth="1011" frameHeight="633"/>
+	<SubTexture name="KEVIN left note0006" x="0" y="5156" width="1002" height="627" frameX="-9" frameY="-6" frameWidth="1011" frameHeight="633"/>
+	<SubTexture name="KEVIN left note0007" x="0" y="5156" width="1002" height="627" frameX="-9" frameY="-6" frameWidth="1011" frameHeight="633"/>
+	<SubTexture name="KEVIN left note0008" x="0" y="5156" width="1002" height="627" frameX="-9" frameY="-6" frameWidth="1011" frameHeight="633"/>
+	<SubTexture name="KEVIN left note0009" x="0" y="5156" width="1002" height="627" frameX="-9" frameY="-6" frameWidth="1011" frameHeight="633"/>
+	<SubTexture name="KEVIN left note0010" x="0" y="5156" width="1002" height="627" frameX="-9" frameY="-6" frameWidth="1011" frameHeight="633"/>
+	<SubTexture name="KEVIN left note0011" x="0" y="5156" width="1002" height="627" frameX="-9" frameY="-6" frameWidth="1011" frameHeight="633"/>
+	<SubTexture name="KEVIN left note0012" x="0" y="5156" width="1002" height="627" frameX="-9" frameY="-6" frameWidth="1011" frameHeight="633"/>
+	<SubTexture name="KEVIN left note0013" x="0" y="5156" width="1002" height="627" frameX="-9" frameY="-6" frameWidth="1011" frameHeight="633"/>
+	<SubTexture name="KEVIN left note0014" x="0" y="5156" width="1002" height="627" frameX="-9" frameY="-6" frameWidth="1011" frameHeight="633"/>
+	<SubTexture name="KEVIN left note0015" x="0" y="5156" width="1002" height="627" frameX="-9" frameY="-6" frameWidth="1011" frameHeight="633"/>
+	<SubTexture name="KEVIN left note0016" x="0" y="5156" width="1002" height="627" frameX="-9" frameY="-6" frameWidth="1011" frameHeight="633"/>
+	<SubTexture name="KEVIN left note0017" x="0" y="5156" width="1002" height="627" frameX="-9" frameY="-6" frameWidth="1011" frameHeight="633"/>
+	<SubTexture name="KEVIN left note0018" x="0" y="5156" width="1002" height="627" frameX="-9" frameY="-6" frameWidth="1011" frameHeight="633"/>
+	<SubTexture name="KEVIN left note0019" x="0" y="5156" width="1002" height="627" frameX="-9" frameY="-6" frameWidth="1011" frameHeight="633"/>
+	<SubTexture name="KEVIN left note0020" x="0" y="5156" width="1002" height="627" frameX="-9" frameY="-6" frameWidth="1011" frameHeight="633"/>
+	<SubTexture name="KEVIN left note0021" x="0" y="5156" width="1002" height="627" frameX="-9" frameY="-6" frameWidth="1011" frameHeight="633"/>
+	<SubTexture name="KEVIN left note0022" x="1007" y="5156" width="990" height="623" frameX="-21" frameY="-10" frameWidth="1011" frameHeight="633"/>
+	<SubTexture name="KEVIN left note0023" x="1007" y="5156" width="990" height="623" frameX="-21" frameY="-10" frameWidth="1011" frameHeight="633"/>
+</TextureAtlas>

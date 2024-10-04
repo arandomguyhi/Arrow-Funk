@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="layer4left.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cuties left instance 10000" x="0" y="0" width="870" height="690" pivotX="209.15" pivotY="23"/>
+	<SubTexture name="cuties left instance 10001" x="0" y="0" width="870" height="690"/>
+	<SubTexture name="cuties left instance 10002" x="0" y="0" width="870" height="690"/>
+	<SubTexture name="cuties left instance 10003" x="0" y="0" width="870" height="690"/>
+	<SubTexture name="cuties left instance 10004" x="0" y="695" width="858" height="667" frameX="-4" frameY="-23" frameWidth="870" frameHeight="690"/>
+	<SubTexture name="cuties left instance 10005" x="0" y="695" width="858" height="667" frameX="-4" frameY="-23" frameWidth="870" frameHeight="690"/>
+	<SubTexture name="cuties left instance 10006" x="0" y="695" width="858" height="667" frameX="-4" frameY="-23" frameWidth="870" frameHeight="690"/>
+	<SubTexture name="cuties left instance 10007" x="0" y="695" width="858" height="667" frameX="-4" frameY="-23" frameWidth="870" frameHeight="690"/>
+</TextureAtlas>

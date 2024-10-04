@@ -1,0 +1,128 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				222,
+				0
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sagu NOTE LEFT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				36,
+				-1
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sagu NOTE DOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				47,
+				63
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sagu NOTE UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				4
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sagu NOTE RIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sagu IDLE DNACE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				84,
+				136
+			],
+			"fps": 24,
+			"anim": "throwmic",
+			"indices": [],
+			"name": "Sagu mic throw"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19
+			],
+			"name": "Sagu IDLE DNACE"
+		},
+		{
+			"offsets": [
+				146,
+				12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "killer",
+			"loop": false,
+			"name": "Sagu KILLER"
+		}
+	],
+	"no_antialiasing": false,
+	"gameover_properties": [
+		"bidu-dead",
+		"fnf_loss_sfx",
+		"gameOver",
+		"gameOverEnd"
+	],
+	"image": "characters/week1/SAGU_FIRE",
+	"position": [
+		-70,
+		0
+	],
+	"healthicon": "sagu",
+	"hasLongAnimations": true,
+	"flip_x": false,
+	"healthbar_colors": [
+		147,
+		83,
+		155
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

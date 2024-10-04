@@ -1,0 +1,107 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				89,
+				-32
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "spooky left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				96,
+				6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "spooky right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				106,
+				-122
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "spooky down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				91,
+				50
+			],
+			"loop": false,
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "spooky dance left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-43,
+				44
+			],
+			"loop": false,
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "spooky dance right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				113,
+				172
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "spooky up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				99,
+				124
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "spooky hey",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"gameover_properties": [
+		"bidu-dead",
+		"fnf_loss_sfx",
+		"gameOver",
+		"gameOverEnd"
+	],
+	"image": "characters/week2/KIDS",
+	"position": [
+		-70,
+		160
+	],
+	"healthicon": "kids",
+	"hasLongAnimations": false,
+	"flip_x": false,
+	"healthbar_colors": [
+		47,
+		80,
+		161
+	],
+	"camera_position": [
+		70,
+		-10
+	],
+	"sing_duration": 4.4,
+	"scale": 1
+}

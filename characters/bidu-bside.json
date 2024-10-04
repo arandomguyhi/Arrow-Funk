@@ -1,0 +1,196 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BIDU idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				-18
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BIDU NOTE LEFT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-59
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BIDU NOTE DOWN MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				93
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BIDU NOTE UP MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				6
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BIDU NOTE RIGHT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				73,
+				-15
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BIDU NOTE LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-39
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BIDU NOTE DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BIDU NOTE RIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				98
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BIDU NOTE UP0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				111
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "coolswag",
+			"indices": [],
+			"name": "BIDU coolswag"
+		},
+		{
+			"offsets": [
+				62,
+				-18
+			],
+			"indices": [
+				3,
+				4
+			],
+			"fps": 24,
+			"anim": "singLEFTmiss-loop",
+			"loop": true,
+			"name": "BIDU NOTE LEFT MISS"
+		},
+		{
+			"offsets": [
+				-1,
+				-59
+			],
+			"indices": [
+				3,
+				4
+			],
+			"fps": 24,
+			"anim": "singDOWNmiss-loop",
+			"loop": true,
+			"name": "BIDU NOTE DOWN MISS"
+		},
+		{
+			"offsets": [
+				-13,
+				93
+			],
+			"indices": [
+				3,
+				4
+			],
+			"fps": 24,
+			"anim": "singUPmiss-loop",
+			"loop": true,
+			"name": "BIDU NOTE UP MISS"
+		},
+		{
+			"offsets": [
+				-33,
+				6
+			],
+			"indices": [
+				3,
+				4
+			],
+			"fps": 24,
+			"anim": "singRIGHTmiss-loop",
+			"loop": true,
+			"name": "BIDU NOTE RIGHT MISS"
+		}
+	],
+	"no_antialiasing": false,
+	"gameover_properties": [
+		"bidu-bside-dead",
+		"fnf_loss_sfx",
+		"gameOver",
+		"gameOverEnd"
+	],
+	"image": "characters/funnystuff/nightfall/BBIDU",
+	"position": [
+		70,
+		350
+	],
+	"healthicon": "twist/icon-bbidu",
+	"hasLongAnimations": true,
+	"flip_x": true,
+	"healthbar_colors": [
+		153,
+		81,
+		190
+	],
+	"camera_position": [
+		70,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,59 @@
+{
+	"storyName": "Frick and Freak",
+	"pack": "Story",
+	"weekBackground": "week2",
+	"hideFreeplay": false,
+	"difficulties": "Easy, Normal, Hard, Twist",
+	"weekBefore": "week1",
+	"startUnlocked": true,
+	"weekCharacters": "week2",
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Bittersweet",
+			"kids",
+			[
+				20,
+				71,
+				195
+			],
+			[
+				255,
+				90,
+				157
+			],
+			[220]
+		],
+		[
+			"Nightfall",
+			"kids",
+			[
+				20,
+				71,
+				195
+			],
+			[
+				255,
+				90,
+				157
+			],
+			[180, 165]
+		],
+		[
+			"Virus",
+			"virus",
+			[
+				14,
+				91,
+				135
+			],
+			[
+				255,
+				255,
+				0
+			],
+			[150, 150]
+		]
+	],
+	"weekName": "Week 2"
+}

@@ -1,0 +1,30 @@
+{
+	"storyName": "Tutorial... DUH!",
+	"pack": "Story",
+	"weekBackground": "tutorial",
+	"hideFreeplay": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": "tutorial",
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Tutorial",
+			"kevin",
+			[
+				40,
+				153,
+				255
+			],
+			[
+				255,
+				40,
+				0
+			],
+			[
+				110
+			]
+		]
+	],
+	"weekName": "Tutorial"
+}

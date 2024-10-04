@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="zumbidu.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="giragira0000" x="0" y="0" width="393" height="862" pivotX="81.5" pivotY="470.05" frameX="0" frameY="-1" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0001" x="398" y="0" width="393" height="862" frameX="0" frameY="-1" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0002" x="796" y="0" width="393" height="860" frameX="-2" frameY="-1" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0003" x="1194" y="0" width="392" height="860" frameX="-2" frameY="-1" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0004" x="1591" y="0" width="393" height="860" frameX="-4" frameY="-1" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0005" x="1989" y="0" width="393" height="860" frameX="-4" frameY="-1" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0006" x="2387" y="0" width="394" height="861" frameX="-7" frameY="-1" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0007" x="2786" y="0" width="394" height="861" frameX="-7" frameY="-1" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0008" x="3185" y="0" width="395" height="862" frameX="-12" frameY="-1" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0009" x="3585" y="0" width="395" height="861" frameX="-12" frameY="-2" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0010" x="0" y="867" width="393" height="863" frameX="-22" frameY="-2" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0011" x="398" y="867" width="393" height="863" frameX="-22" frameY="-2" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0012" x="796" y="867" width="392" height="864" frameX="-32" frameY="-3" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0013" x="1193" y="867" width="392" height="864" frameX="-32" frameY="-3" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0014" x="1590" y="867" width="391" height="866" frameX="-45" frameY="-4" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0015" x="1986" y="867" width="391" height="866" frameX="-45" frameY="-4" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0016" x="2382" y="867" width="391" height="867" frameX="-50" frameY="-4" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0017" x="2778" y="867" width="390" height="867" frameX="-50" frameY="-4" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0018" x="3173" y="867" width="391" height="868" frameX="-59" frameY="-4" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0019" x="3569" y="867" width="389" height="868" frameX="-60" frameY="-4" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0020" x="0" y="1740" width="390" height="870" frameX="-70" frameY="-4" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0021" x="395" y="1740" width="389" height="869" frameX="-70" frameY="-4" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0022" x="789" y="1740" width="389" height="870" frameX="-77" frameY="-4" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0023" x="1183" y="1740" width="389" height="870" frameX="-77" frameY="-4" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0024" x="1577" y="1740" width="390" height="871" frameX="-82" frameY="-4" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0025" x="1972" y="1740" width="390" height="871" frameX="-82" frameY="-4" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0026" x="2367" y="1740" width="389" height="874" frameX="-87" frameY="-3" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0027" x="2761" y="1740" width="389" height="874" frameX="-87" frameY="-3" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0028" x="3155" y="1740" width="389" height="876" frameX="-89" frameY="-3" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0029" x="3549" y="1740" width="389" height="876" frameX="-89" frameY="-3" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0030" x="0" y="2621" width="389" height="876" frameX="-91" frameY="-3" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0031" x="394" y="2621" width="389" height="876" frameX="-91" frameY="-3" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0032" x="788" y="2621" width="389" height="877" frameX="-91" frameY="-3" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0033" x="1182" y="2621" width="389" height="877" frameX="-91" frameY="-3" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0034" x="1576" y="2621" width="390" height="877" frameX="-88" frameY="-3" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0035" x="1971" y="2621" width="390" height="877" frameX="-88" frameY="-3" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0036" x="2366" y="2621" width="389" height="877" frameX="-84" frameY="-3" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0037" x="2760" y="2621" width="390" height="877" frameX="-84" frameY="-3" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0038" x="3155" y="2621" width="389" height="876" frameX="-80" frameY="-4" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0039" x="3549" y="2621" width="390" height="876" frameX="-79" frameY="-4" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0040" x="0" y="3503" width="390" height="875" frameX="-71" frameY="-4" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0041" x="395" y="3503" width="390" height="875" frameX="-71" frameY="-4" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0042" x="790" y="3503" width="390" height="874" frameX="-64" frameY="-4" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0043" x="1185" y="3503" width="392" height="874" frameX="-63" frameY="-4" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0044" x="1582" y="3503" width="391" height="873" frameX="-53" frameY="-4" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0045" x="1978" y="3503" width="391" height="873" frameX="-53" frameY="-4" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0046" x="2374" y="3503" width="391" height="872" frameX="-48" frameY="-4" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0047" x="2770" y="3503" width="392" height="872" frameX="-48" frameY="-4" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0048" x="3167" y="3503" width="393" height="871" frameX="-36" frameY="-3" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0049" x="3565" y="3503" width="393" height="871" frameX="-36" frameY="-3" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0050" x="0" y="4383" width="392" height="870" frameX="-26" frameY="-2" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0051" x="397" y="4383" width="393" height="870" frameX="-26" frameY="-2" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0052" x="795" y="4383" width="392" height="867" frameX="-18" frameY="-2" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0053" x="1192" y="4383" width="392" height="867" frameX="-18" frameY="-2" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0054" x="1589" y="4383" width="393" height="866" frameX="-11" frameY="-1" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0055" x="1987" y="4383" width="393" height="866" frameX="-11" frameY="-1" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0056" x="2385" y="4383" width="393" height="865" frameX="-7" frameY="-1" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0057" x="2783" y="4383" width="393" height="865" frameX="-7" frameY="-1" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0058" x="3181" y="4383" width="393" height="864" frameX="-3" frameY="-1" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0059" x="3579" y="4383" width="393" height="864" frameX="-3" frameY="-1" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0060" x="0" y="5258" width="393" height="864" frameX="-1" frameY="0" frameWidth="480" frameHeight="880"/>
+	<SubTexture name="giragira0061" x="398" y="5258" width="393" height="864" frameX="-1" frameY="0" frameWidth="480" frameHeight="880"/>
+</TextureAtlas>

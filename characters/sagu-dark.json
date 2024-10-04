@@ -1,0 +1,123 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				111,
+				1
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sagu NOTE LEFT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				1
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sagu NOTE DOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				64
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sagu NOTE UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-55,
+				5
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sagu NOTE RIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				0
+			],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Sagu BB DOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				67
+			],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Sagu BB UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sagu IDLE DNACE",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-45,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Sagu IDLE DNACE",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"gameover_properties": [
+		"bidu-dead",
+		"fnf_loss_sfx",
+		"gameOver",
+		"gameOverEnd"
+	],
+	"image": "characters/funnystuff/fresher/SAGU_DARK",
+	"position": [
+		-70,
+		0
+	],
+	"healthicon": "sagu",
+	"hasLongAnimations": true,
+	"flip_x": false,
+	"healthbar_colors": [
+		147,
+		83,
+		155
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

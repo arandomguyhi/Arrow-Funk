@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="layer4right.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cuties right instance 10000" x="0" y="0" width="806" height="572" pivotX="181.8" pivotY="39.05" frameX="0" frameY="-1" frameWidth="806" frameHeight="576"/>
+	<SubTexture name="cuties right instance 10001" x="0" y="0" width="806" height="572" frameX="0" frameY="-1" frameWidth="806" frameHeight="576"/>
+	<SubTexture name="cuties right instance 10002" x="0" y="0" width="806" height="572" frameX="0" frameY="-1" frameWidth="806" frameHeight="576"/>
+	<SubTexture name="cuties right instance 10003" x="0" y="0" width="806" height="572" frameX="0" frameY="-1" frameWidth="806" frameHeight="576"/>
+	<SubTexture name="cuties right instance 10004" x="0" y="577" width="795" height="576" frameX="-5" frameY="0" frameWidth="806" frameHeight="576"/>
+	<SubTexture name="cuties right instance 10005" x="0" y="577" width="795" height="576" frameX="-5" frameY="0" frameWidth="806" frameHeight="576"/>
+	<SubTexture name="cuties right instance 10006" x="0" y="577" width="795" height="576" frameX="-5" frameY="0" frameWidth="806" frameHeight="576"/>
+	<SubTexture name="cuties right instance 10007" x="0" y="577" width="795" height="576" frameX="-5" frameY="0" frameWidth="806" frameHeight="576"/>
+</TextureAtlas>

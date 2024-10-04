@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bola.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="giragira0000" x="0" y="0" width="299" height="729" pivotX="0" pivotY="428.85"/>
+	<SubTexture name="giragira0001" x="0" y="0" width="299" height="729"/>
+	<SubTexture name="giragira0002" x="304" y="0" width="299" height="729"/>
+	<SubTexture name="giragira0003" x="304" y="0" width="299" height="729"/>
+	<SubTexture name="giragira0004" x="608" y="0" width="299" height="729"/>
+	<SubTexture name="giragira0005" x="608" y="0" width="299" height="729"/>
+	<SubTexture name="giragira0006" x="912" y="0" width="299" height="729"/>
+	<SubTexture name="giragira0007" x="912" y="0" width="299" height="729"/>
+	<SubTexture name="giragira0008" x="1216" y="0" width="299" height="729"/>
+	<SubTexture name="giragira0009" x="1216" y="0" width="299" height="729"/>
+	<SubTexture name="giragira0010" x="1520" y="0" width="299" height="729"/>
+	<SubTexture name="giragira0011" x="1520" y="0" width="299" height="729"/>
+	<SubTexture name="giragira0012" x="0" y="734" width="299" height="729"/>
+	<SubTexture name="giragira0013" x="0" y="734" width="299" height="729"/>
+	<SubTexture name="giragira0014" x="304" y="734" width="299" height="729"/>
+	<SubTexture name="giragira0015" x="304" y="734" width="299" height="729"/>
+</TextureAtlas>

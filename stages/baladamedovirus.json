@@ -1,0 +1,19 @@
+{
+	"directory": "week2",
+	"defaultZoom": 0.56,
+	"isPixelStage": false,
+
+	"boyfriend": [805, 40],
+	"girlfriend": [320, 42],
+	"opponent": [-80, 78],
+	"hide_girlfriend": false,
+	"timebar_color": [187, 255, 80],
+
+	"camera_boyfriend": [0, 0],
+	"camera_opponent": [0, 0],
+	"camera_girlfriend": [0, 0],
+	"camera_speed": 1,
+	"scroll_boyfriend": [0.9, 0.9],
+	"scroll_opponent": [0.9, 0.9],
+	"scroll_girlfriend": [0.9, 0.9]
+}

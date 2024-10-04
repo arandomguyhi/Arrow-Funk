@@ -1,0 +1,96 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				350,
+				-330
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "virus down0"
+		},
+		{
+			"offsets": [
+				395,
+				-97
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "virus right0"
+		},
+		{
+			"offsets": [
+				-45,
+				-26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "virus left0"
+		},
+		{
+			"offsets": [
+				100,
+				362
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "virus up0"
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "virus idle"
+		},
+		{
+			"offsets": [
+				353,
+				730
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "leave",
+			"indices": [],
+			"name": "virus leave"
+		}
+	],
+	"no_antialiasing": false,
+	"gameover_properties": [
+		"bidu-dead",
+		"fnf_loss_sfx",
+		"gameOver",
+		"gameOverEnd"
+	],
+	"image": "characters/week2/MONSTRO_PODRE",
+	"position": [
+		-334,
+		-302
+	],
+	"healthicon": "virus",
+	"hasLongAnimations": true,
+	"flip_x": false,
+	"healthbar_colors": [
+		5,
+		11,
+		26
+	],
+	"camera_position": [
+		-300,
+		-120
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

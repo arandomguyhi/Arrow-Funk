@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="layer5right.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="funnies right instance 10000" x="0" y="0" width="594" height="430" pivotX="284.5" pivotY="172.45" frameX="0" frameY="-11" frameWidth="594" frameHeight="441"/>
+	<SubTexture name="funnies right instance 10001" x="0" y="0" width="594" height="430" frameX="0" frameY="-11" frameWidth="594" frameHeight="441"/>
+	<SubTexture name="funnies right instance 10002" x="0" y="435" width="594" height="431" frameX="0" frameY="-10" frameWidth="594" frameHeight="441"/>
+	<SubTexture name="funnies right instance 10003" x="0" y="435" width="594" height="431" frameX="0" frameY="-10" frameWidth="594" frameHeight="441"/>
+	<SubTexture name="funnies right instance 10004" x="0" y="871" width="586" height="439" frameX="-6" frameY="-2" frameWidth="594" frameHeight="441"/>
+	<SubTexture name="funnies right instance 10005" x="0" y="871" width="586" height="439" frameX="-6" frameY="-2" frameWidth="594" frameHeight="441"/>
+	<SubTexture name="funnies right instance 10006" x="0" y="1315" width="586" height="441" frameX="-6" frameY="0" frameWidth="594" frameHeight="441"/>
+	<SubTexture name="funnies right instance 10007" x="0" y="1315" width="586" height="441" frameX="-6" frameY="0" frameWidth="594" frameHeight="441"/>
+	<SubTexture name="funnies right instance 10008" x="0" y="1315" width="586" height="441" frameX="-6" frameY="0" frameWidth="594" frameHeight="441"/>
+	<SubTexture name="funnies right instance 10009" x="0" y="1315" width="586" height="441" frameX="-6" frameY="0" frameWidth="594" frameHeight="441"/>
+</TextureAtlas>

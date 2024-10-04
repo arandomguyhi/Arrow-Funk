@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gameOverCard.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="game over0000" x="5" y="5" width="686" height="352"/>
+	<SubTexture name="game over0001" x="5" y="5" width="686" height="352"/>
+	<SubTexture name="game over0002" x="5" y="5" width="686" height="352"/>
+	<SubTexture name="game over0003" x="5" y="5" width="686" height="352"/>
+	<SubTexture name="game over0004" x="692" y="5" width="685" height="352" frameX="-1" frameY="0" frameWidth="686" frameHeight="352"/>
+	<SubTexture name="game over0005" x="692" y="5" width="685" height="352" frameX="-1" frameY="0" frameWidth="686" frameHeight="352"/>
+	<SubTexture name="game over0006" x="692" y="5" width="685" height="352" frameX="-1" frameY="0" frameWidth="686" frameHeight="352"/>
+	<SubTexture name="game over0007" x="692" y="5" width="685" height="352" frameX="-1" frameY="0" frameWidth="686" frameHeight="352"/>
+	<SubTexture name="game over0008" x="1378" y="5" width="685" height="352" frameX="0" frameY="0" frameWidth="686" frameHeight="352"/>
+	<SubTexture name="game over0009" x="1378" y="5" width="685" height="352" frameX="0" frameY="0" frameWidth="686" frameHeight="352"/>
+	<SubTexture name="game over0010" x="1378" y="5" width="685" height="352" frameX="0" frameY="0" frameWidth="686" frameHeight="352"/>
+	<SubTexture name="game over0011" x="1378" y="5" width="685" height="352" frameX="0" frameY="0" frameWidth="686" frameHeight="352"/>
+</TextureAtlas>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RapKingAudience.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pessoas instance 10000" x="0" y="0" width="2939" height="812" pivotX="-834.6" pivotY="-1521.65" frameX="0" frameY="0" frameWidth="2939" frameHeight="835"/>
+	<SubTexture name="pessoas instance 10001" x="0" y="0" width="2939" height="812" frameX="0" frameY="0" frameWidth="2939" frameHeight="835"/>
+	<SubTexture name="pessoas instance 10002" x="0" y="817" width="2939" height="796" frameX="0" frameY="-8" frameWidth="2939" frameHeight="835"/>
+	<SubTexture name="pessoas instance 10003" x="0" y="817" width="2939" height="796" frameX="0" frameY="-8" frameWidth="2939" frameHeight="835"/>
+	<SubTexture name="pessoas instance 10004" x="0" y="817" width="2939" height="796" frameX="0" frameY="-8" frameWidth="2939" frameHeight="835"/>
+	<SubTexture name="pessoas instance 10005" x="0" y="817" width="2939" height="796" frameX="0" frameY="-8" frameWidth="2939" frameHeight="835"/>
+	<SubTexture name="pessoas instance 10006" x="0" y="817" width="2939" height="796" frameX="0" frameY="-8" frameWidth="2939" frameHeight="835"/>
+	<SubTexture name="pessoas instance 10007" x="0" y="817" width="2939" height="796" frameX="0" frameY="-8" frameWidth="2939" frameHeight="835"/>
+	<SubTexture name="pessoas instance 10008" x="0" y="817" width="2939" height="796" frameX="0" frameY="-8" frameWidth="2939" frameHeight="835"/>
+	<SubTexture name="pessoas instance 10009" x="0" y="817" width="2939" height="796" frameX="0" frameY="-8" frameWidth="2939" frameHeight="835"/>
+	<SubTexture name="pessoas instance 10010" x="0" y="1618" width="2939" height="807" frameX="0" frameY="-28" frameWidth="2939" frameHeight="835"/>
+	<SubTexture name="pessoas instance 10011" x="0" y="1618" width="2939" height="807" frameX="0" frameY="-28" frameWidth="2939" frameHeight="835"/>
+	<SubTexture name="pessoas instance 10012" x="0" y="2430" width="2939" height="795" frameX="0" frameY="-33" frameWidth="2939" frameHeight="835"/>
+	<SubTexture name="pessoas instance 10013" x="0" y="2430" width="2939" height="795" frameX="0" frameY="-33" frameWidth="2939" frameHeight="835"/>
+	<SubTexture name="pessoas instance 10014" x="0" y="2430" width="2939" height="795" frameX="0" frameY="-33" frameWidth="2939" frameHeight="835"/>
+	<SubTexture name="pessoas instance 10015" x="0" y="2430" width="2939" height="795" frameX="0" frameY="-33" frameWidth="2939" frameHeight="835"/>
+	<SubTexture name="pessoas instance 10016" x="0" y="2430" width="2939" height="795" frameX="0" frameY="-33" frameWidth="2939" frameHeight="835"/>
+	<SubTexture name="pessoas instance 10017" x="0" y="2430" width="2939" height="795" frameX="0" frameY="-33" frameWidth="2939" frameHeight="835"/>
+	<SubTexture name="pessoas instance 10018" x="0" y="2430" width="2939" height="795" frameX="0" frameY="-33" frameWidth="2939" frameHeight="835"/>
+	<SubTexture name="pessoas instance 10019" x="0" y="2430" width="2939" height="795" frameX="0" frameY="-33" frameWidth="2939" frameHeight="835"/>
+</TextureAtlas>

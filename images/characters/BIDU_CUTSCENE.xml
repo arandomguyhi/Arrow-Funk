@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BIDU_CUTSCENE.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BIDU cutscene0000" x="0" y="0" width="341" height="439" pivotX="-369.15" pivotY="234.7" frameX="-3" frameY="-10" frameWidth="344" frameHeight="449"/>
+	<SubTexture name="BIDU cutscene0001" x="0" y="0" width="341" height="439" frameX="-3" frameY="-10" frameWidth="344" frameHeight="449"/>
+	<SubTexture name="BIDU cutscene0002" x="346" y="0" width="341" height="438" frameX="-3" frameY="-11" frameWidth="344" frameHeight="449"/>
+	<SubTexture name="BIDU cutscene0003" x="346" y="0" width="341" height="438" frameX="-3" frameY="-11" frameWidth="344" frameHeight="449"/>
+	<SubTexture name="BIDU cutscene0004" x="0" y="444" width="343" height="429" frameX="-1" frameY="-20" frameWidth="344" frameHeight="449"/>
+	<SubTexture name="BIDU cutscene0005" x="0" y="444" width="343" height="429" frameX="-1" frameY="-20" frameWidth="344" frameHeight="449"/>
+	<SubTexture name="BIDU cutscene0006" x="348" y="444" width="336" height="449" frameX="0" frameY="0" frameWidth="344" frameHeight="449"/>
+	<SubTexture name="BIDU cutscene0007" x="348" y="444" width="336" height="449" frameX="0" frameY="0" frameWidth="344" frameHeight="449"/>
+	<SubTexture name="BIDU cutscene0008" x="0" y="898" width="336" height="448" frameX="0" frameY="-1" frameWidth="344" frameHeight="449"/>
+	<SubTexture name="BIDU cutscene0009" x="0" y="898" width="336" height="448" frameX="0" frameY="-1" frameWidth="344" frameHeight="449"/>
+	<SubTexture name="BIDU cutscene0010" x="341" y="898" width="336" height="448" frameX="0" frameY="-1" frameWidth="344" frameHeight="449"/>
+	<SubTexture name="BIDU cutscene0011" x="341" y="898" width="336" height="448" frameX="0" frameY="-1" frameWidth="344" frameHeight="449"/>
+	<SubTexture name="BIDU cutscene0012" x="341" y="898" width="336" height="448" frameX="0" frameY="-1" frameWidth="344" frameHeight="449"/>
+	<SubTexture name="BIDU cutscene0013" x="341" y="898" width="336" height="448" frameX="0" frameY="-1" frameWidth="344" frameHeight="449"/>
+	<SubTexture name="BIDU cutscene0014" x="341" y="898" width="336" height="448" frameX="0" frameY="-1" frameWidth="344" frameHeight="449"/>
+	<SubTexture name="BIDU cutscene0015" x="341" y="898" width="336" height="448" frameX="0" frameY="-1" frameWidth="344" frameHeight="449"/>
+	<SubTexture name="BIDU cutscene0016" x="341" y="898" width="336" height="448" frameX="0" frameY="-1" frameWidth="344" frameHeight="449"/>
+	<SubTexture name="BIDU cutscene0017" x="341" y="898" width="336" height="448" frameX="0" frameY="-1" frameWidth="344" frameHeight="449"/>
+	<SubTexture name="BIDU cutscene0018" x="341" y="898" width="336" height="448" frameX="0" frameY="-1" frameWidth="344" frameHeight="449"/>
+	<SubTexture name="BIDU cutscene0019" x="341" y="898" width="336" height="448" frameX="0" frameY="-1" frameWidth="344" frameHeight="449"/>
+	<SubTexture name="BIDU cutscene0020" x="341" y="898" width="336" height="448" frameX="0" frameY="-1" frameWidth="344" frameHeight="449"/>
+	<SubTexture name="BIDU cutscene0021" x="341" y="898" width="336" height="448" frameX="0" frameY="-1" frameWidth="344" frameHeight="449"/>
+	<SubTexture name="BIDU cutscene0022" x="341" y="898" width="336" height="448" frameX="0" frameY="-1" frameWidth="344" frameHeight="449"/>
+	<SubTexture name="BIDU cutscene0023" x="341" y="898" width="336" height="448" frameX="0" frameY="-1" frameWidth="344" frameHeight="449"/>
+	<SubTexture name="BIDU cutscene0024" x="341" y="898" width="336" height="448" frameX="0" frameY="-1" frameWidth="344" frameHeight="449"/>
+	<SubTexture name="BIDU cutscene0025" x="341" y="898" width="336" height="448" frameX="0" frameY="-1" frameWidth="344" frameHeight="449"/>
+	<SubTexture name="BIDU cutscene0026" x="341" y="898" width="336" height="448" frameX="0" frameY="-1" frameWidth="344" frameHeight="449"/>
+	<SubTexture name="BIDU cutscene0027" x="341" y="898" width="336" height="448" frameX="0" frameY="-1" frameWidth="344" frameHeight="449"/>
+	<SubTexture name="BIDU cutscene0028" x="341" y="898" width="336" height="448" frameX="0" frameY="-1" frameWidth="344" frameHeight="449"/>
+	<SubTexture name="BIDU cutscene0029" x="341" y="898" width="336" height="448" frameX="0" frameY="-1" frameWidth="344" frameHeight="449"/>
+	<SubTexture name="BIDU cutscene0030" x="341" y="898" width="336" height="448" frameX="0" frameY="-1" frameWidth="344" frameHeight="449"/>
+	<SubTexture name="BIDU cutscene0031" x="341" y="898" width="336" height="448" frameX="0" frameY="-1" frameWidth="344" frameHeight="449"/>
+	<SubTexture name="BIDU cutscene0032" x="341" y="898" width="336" height="448" frameX="0" frameY="-1" frameWidth="344" frameHeight="449"/>
+	<SubTexture name="BIDU cutscene0033" x="341" y="898" width="336" height="448" frameX="0" frameY="-1" frameWidth="344" frameHeight="449"/>
+	<SubTexture name="BIDU cutscene0034" x="341" y="898" width="336" height="448" frameX="0" frameY="-1" frameWidth="344" frameHeight="449"/>
+	<SubTexture name="BIDU cutscene0035" x="341" y="898" width="336" height="448" frameX="0" frameY="-1" frameWidth="344" frameHeight="449"/>
+	<SubTexture name="BIDU cutscene0036" x="341" y="898" width="336" height="448" frameX="0" frameY="-1" frameWidth="344" frameHeight="449"/>
+	<SubTexture name="BIDU cutscene0037" x="341" y="898" width="336" height="448" frameX="0" frameY="-1" frameWidth="344" frameHeight="449"/>
+	<SubTexture name="BIDU cutscene0038" x="341" y="898" width="336" height="448" frameX="0" frameY="-1" frameWidth="344" frameHeight="449"/>
+	<SubTexture name="BIDU cutscene0039" x="341" y="898" width="336" height="448" frameX="0" frameY="-1" frameWidth="344" frameHeight="449"/>
+</TextureAtlas>
